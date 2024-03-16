@@ -1,0 +1,18 @@
+[0:18:18] 39SaltyCookies: @NuclearSlayer52 I'm no Nightjar, but I might be able to help
+[0:20:55] pinewood_mist: @39SaltyCookies so how are videos sorted when there are tie votes?
+[0:21:34] NuclearSlayer52: @39SaltyCookies are the videos stored as some form of list, to effectively allow a bruteforce check for if videos need to be removed? also, if a series is a majority of a redacted person, should episodes without them also be reported?
+[0:22:35] 39SaltyCookies: @ethereal_17 I believe that the video is chosen randomly from the tied options.
+[0:22:57] pinewood_mist: @39SaltyCookies Admiring
+[0:23:37] JaffaMod: While we're offline, check out: Pedguin playing Just Chatting: Day 6 🔴 24/7 Uncapped Birthday !Subathon - ft @theratboy_ @jemalki @imseanbean over at twitch.tv/pedguin !
+[0:26:13] 39SaltyCookies: @NuclearSlayer52 They are stored as a list, and we also have a list of banned videos in the backend of cinema, which are added manually, so I don't think there's an inbuilt feature to check if a video needs to be removed. As the list is itemised per video, I don't believe that series episodes without redacted individuals need to be reported.
+[0:26:47] 39SaltyCookies: Hopefully that helps
+[0:28:55] NuclearSlayer52: i think so yes, thanks zoeyWub
+[0:29:12] Jasott: peepoArrive
+[0:36:45] JaffaMod: We're now going for an ad break that will last up to 5 minutes. Make sure you subscribe ( twitch.tv/yogscast/subscribe ) to not see them anymore!
+[0:38:38] JaffaMod: While we're offline, check out: Pedguin playing Party Animals: Day 6 🔴 24/7 Uncapped Birthday !Subathon - ft @theratboy_ @jemalki @imseanbean over at twitch.tv/pedguin !
+[1:11:03] rorchach_test: DrNose
+[1:11:03] JaffaMod: Want to support the streamer and the Yogscast? 75% of donations go directly to the streamer! https://twitch.streamlabs.com/yogscast
+[1:11:03] JaffaMod: Thanks to PCSpecialist for supporting the channel. Powered by the GeForce RTX 4080. Get £30 off your order using the code YOGS https://pcspeciali.st/yogscast
+[1:28:04] Wittlock: Evening yogP yogHey VIBE
+[1:28:04] JaffaMod: While we're offline, check out: Pedguin playing Party Animals: Day 6 🔴 24/7 Uncapped Birthday !Subathon - ft @theratboy_ @jemalki @imseanbean over at twitch.tv/pedguin !
+[1:30:14] VikingKong_: emongHi

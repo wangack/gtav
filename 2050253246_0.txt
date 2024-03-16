@@ -1,0 +1,1998 @@
+[0:00:20] bdf_neves_07: 1 primeiro
+[0:00:26] guilhermee_diaas: boas
+[0:00:26] pt_azul: Boas
+[0:00:28] WizeBot: ✔️ LIVE ONLINE under the game Grand Theft Auto V, the uptime begin.
+[0:00:32] 351guii: HeyGuys
+[0:00:43] diogosilv22: cesarv3ZETO
+[0:00:46] migas350: boas cesar
+[0:00:46] rammstein_life: HeyGuys HeyGuys HeyGuys
+[0:00:53] santy_mp_22: Olá outra vez
+[0:01:02] samjorp: Boas
+[0:01:05] 351guii7: !gnr
+[0:01:06] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[0:01:31] HoroGaming: mas olha que multicast vai te pesar o pc
+[0:02:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:02:26] HoroGaming: porque vais estar a fazer encoding para 2 plataformas de streaming, ou seja, o teu pc se for bom, é cagativo, nao deves de notar diferença
+[0:02:36] capitao_cuequinha: @HoroGaming @Cesarvsc tens que começar a pensar em dar build num PC para streaming.
+[0:02:54] HoroGaming: ya, 2 pc's, 1 para encoding e outro para gaming
+[0:03:09] HoroGaming: eu tenho isso, um portatil super velho de 8 anos e faz o trabalho
+[0:03:11] offerman07: hello again
+[0:03:42] capitao_cuequinha: @HoroGaming Claro, não é preciso ser um grande canhão.
+[0:03:50] HoroGaming: @Cesarvsc só precisas do OBS OU streamlabs
+[0:03:51] offerman07: consegues
+[0:03:55] leob13: ate da so com o streamlabs
+[0:03:57] leob13: tens que pagar
+[0:03:59] lopes05: da para stremar nas 2 plataformas sim !!!
+[0:04:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[0:04:01] HoroGaming: nao precisas dos 2
+[0:04:01] capitao_cuequinha: Isso vai te pesar em tudo @Cesarvsc vais ficar com essa maquina mais pesada.
+[0:04:13] madrux_: tens uma extensão no obs que da para stimar em duas plantaformas
+[0:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[0:04:17] rammstein_life: vai te dar cabo do pc
+[0:04:24] HoroGaming: nao baixes, testas 1º, caso seja preciso, baixas
+[0:04:26] lopes05: n e assim tao pesado!
+[0:04:28] eskapa_: Fogo na kick tava impecável aqui ta so a empamcar
+[0:04:30] leob13: tens que ter o ultra no streamlabs ou algo desse genero
+[0:04:30] offerman07: isso 2 lives no mesmo pc queima te o pc todo
+[0:04:34] vyni_sg: nao pesa assim tamto n precisas baixar
+[0:04:37] capitao_cuequinha: Só tu é que podes experimentar e ver como dizes organizas e vês, se realmente é preciso uma outra maquina.
+[0:04:44] HoroGaming: dá nada, nao pesa assim tanto, só 1 poquinho, nao precisas de baixar SE nao se notar problemas
+[0:05:06] vyni_sg: nao precias baixar e quase a mesma coisa que fazer uma live mas 2 vai pesar quase o mm
+[0:05:17] leob13: podes é pensar em ter um pc so para streamar
+[0:05:18] offerman07: mas isso queima o pc todo
+[0:05:25] Candeiasvsc: fazes upgrade das peças não é preciso um novo, penso ei
+[0:05:27] pt_azul: Um PC daqueles baratinhos tipo 10.000.00€ da para os gastos
+[0:05:36] nuno_miguel_23: Boas rei
+[0:05:39] gamarii_aziado: boa noite a todos
+[0:05:46] HoroGaming: por exemplo, o meu portatil para o encoding, vai até 25% de CPU, com a multistream foi até aos 35% +/- MAS é um portatil VELHO
+[0:05:50] goncalof00: Estás a stremar onde?
+[0:05:51] offerman07: Oq compensa é teres 1 para as streams e o outro para jogares
+[0:06:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[0:06:12] HoroGaming: offerman07 oh pah... depende bro
+[0:06:13] capitao_cuequinha: @HoroGaming Muda lhe a pasta termica hah :P
+[0:06:24] lopes05: tenho um colega strema nas 2 com pc pior ok qe e csgo mas joga no maximo
+[0:06:36] HoroGaming: é fixe ter 2 pc's por 1 motivo: se o de gaming precisar de reeniciar, dás o RR e a stream continua a dar
+[0:06:49] HoroGaming: @capitao_cuequinha tá tudo LUL o portatil é mesmo velho bro
+[0:06:58] HoroGaming: é só para o encoding, chega bem
+[0:06:58] capitao_cuequinha: Uma coisa tu vais notar diferença Cesar, como tens os gráficos, em principio tens que os baixar. Mas experimenta.
+[0:07:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:07:05] capitao_cuequinha: @HoroGaming Os velhos é que bombam!
+[0:07:05] offerman07: e não te sobrecarrega tanto a máquina @horogaming
+[0:07:21] nuno_miguel_23: Pegaaa hahah
+[0:07:34] HoroGaming: offerman07 yap, por exemplo, eu com 2 pc's consegui jogar cyberpunk nos máximos praticamente, testei com 1 pc, já se viu aflito
+[0:07:43] HoroGaming: @capitao_cuequinha mesmo, 31 anos aleeee
+[0:07:47] HoroGaming: wait, estamos a falar do pc Kappa
+[0:08:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[0:08:16] capitao_cuequinha: @HoroGaming hahah, isso requer um Linux em cima :P
+[0:08:42] HoroGaming: capitao_cuequinha eh pah... tá bom assim. nem me vou chatear.
+[0:08:54] HoroGaming: eu sou pratico: está bom, nao mexe xDD
+[0:09:26] pedro2010frias: Grande
+[0:09:41] ricardo_dyas: boas
+[0:10:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[0:10:28] jot7nhx: jot7nhx watched 5 consecutive streams this month and sparked a watch streak! boas
+[0:11:29] bernardocost10: !comands
+[0:12:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:13:01] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[0:13:35] nuno_miguel_23: O soriso é PSP agora??
+[0:13:39] nuno_miguel_23: Sorriso*
+[0:14:16] HoroGaming: estou a assistir a uma sessao de webnamorados
+[0:14:20] HoroGaming: e tou me a rir tanto
+[0:14:20] HoroGaming: HAHA
+[0:15:04] pirracoo: Boa noite cesar, conseguiste ver aquele tal email, o que achaste? abraço e boa live
+[0:15:43] DrMysticK95: e que
+[0:16:22] kocas1616: Boas noites td bem?
+[0:16:25] carlitos_cs: ta a falar muito baixo
+[0:17:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:18:16] rammstein_life: ele ta lagado
+[0:19:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[0:19:16] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[0:19:16] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[0:19:26] nuno_miguel_23: Hahahah
+[0:19:57] nuno_miguel_23: Hahahh
+[0:19:59] HoroGaming: tou me a rir tanto com os webnamorados
+[0:20:25] tropadafavela: 2122
+[0:20:41] redlinee_23: Já estás com o modo maluco ligado 🤣
+[0:20:43] rammstein_life: a ver webnamorados?
+[0:20:59] HoroGaming: rammstein_life estou no processo da coca, e está la 2 webnamorados
+[0:21:01] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[0:21:02] HoroGaming: é tao fofo
+[0:21:07] labf14: WutFace
+[0:21:16] Guirc7: 7576
+[0:21:29] rammstein_life: @HoroGaming opha é tao cringe hahah
+[0:21:32] af0nso19: 4554 deve ter LUL
+[0:21:36] ff_bruno10: 651
+[0:21:37] hugopt79: Hj ha GIOP ou paisana?
+[0:21:42] HoroGaming: @rammstein_life sim, estou me a rir tanto nao tens ideia
+[0:21:45] HoroGaming: mas é fofo na mesma HAHA
+[0:21:45] superhands67: 1337
+[0:22:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:22:06] WizeBot: 👤 New FOLLOW(S) ❤ stallon69 ❤, WELCOME! (134558 followers) (+1).
+[0:22:07] stallon69: boas
+[0:22:12] antifacti0n: Centrovia
+[0:22:13] rammstein_life: @HoroGaming opha eu ja fiz rp de casal e digo te da uma vergonha fazer ahhah
+[0:22:24] WizeBot: 【 282 viewers (+282) ⏰ 22m 29s 】
+[0:22:26] 351guii7: Centrovia
+[0:22:33] HoroGaming: @rammstein_life levaste o teu moço para o RP e fizeram RP? HAHAHA
+[0:22:38] stallon69: presiso da sua ajuda
+[0:22:41] nuno_miguel_23: 6996 ou 9669
+[0:22:42] Souzavr_: Souzavr_ watched 7 consecutive streams this month and sparked a watch streak! @HoroGaming olha me este roubo
+[0:22:53] l_gatuno: l_gatuno watched 100 consecutive streams this month and sparked a watch streak! lição numero 100! vai haver bolo?
+[0:22:54] 351guii7: !horas
+[0:22:55] Streamlabs: Está na hora de comprares um relógio :)
+[0:22:58] rammstein_life: @HoroGaming na altura foi isso
+[0:22:59] af0nso19: af0nso19 watched 3 consecutive streams this month and sparked a watch streak! perdi a minha sequencia
+[0:23:01] rammstein_life: jaaajajaaj
+[0:23:06] WizeBot: 👤 New FOLLOW(S) ❤ rogeriocamacho96 ❤, WELCOME! (134559 followers) (+2).
+[0:23:10] felisberrtooo: LUL
+[0:23:18] paramedic_portugal: festa da lição 100
+[0:23:20] l_gatuno: foi duro
+[0:23:25] antifacti0n: Vai a PrimeCheck fazer inspeções que eu faço desconto com o codigo Ze To Kappa
+[0:23:36] guilhermept29: guilhermept29 watched 7 consecutive streams this month and sparked a watch streak! siga siga
+[0:23:39] labf14: eu tambem tive ai muitas, mas as vezes vinha so mandar uma mensagem e bazava e n contava
+[0:23:41] HoroGaming: @rammstein_life coitado HAHA agora quando lhe falas de fazer RP, o moço até treme
+[0:24:01] zee_navalhas: boas
+[0:24:30] rammstein_life: @HoroGaming nahh ja foi a bues ja n tamos juntos mas ele é me puxou para o rp mais ja jogava mas depois fiquei mm colada
+[0:25:01] pisca6998: !pc
+[0:25:01] Streamlabs: pisca6998 -> You do not have permission to use !pc.
+[0:25:31] HoroGaming: @rammstein_life fonix.. mas webnamorados? LUL
+[0:25:52] sporting_2024: Kappa Kappa
+[0:26:07] paramedic_portugal: @rammstein_life isso é levar assuntos do exterior para o RP Keepo
+[0:26:13] rammstein_life: @HoroGaming não haahah . namoravamos na vida real e prontos fizemos casalzinho no rp haha
+[0:26:22] HoroGaming: HAHAHA pior ainda
+[0:26:25] HoroGaming: hahahahahaha
+[0:26:31] rammstein_life: @paramedic_portugal ooc para ic haahha
+[0:26:38] rammstein_life: esquece ahaaha
+[0:26:43] rammstein_life: nnc mais babababa
+[0:27:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:28:01] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[0:28:15] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[0:29:05] zoldswap: o portugalia tem sido vitima de ataques h4ck?
+[0:29:09] Cachorrinho_KTM: wtf??
+[0:29:24] nelinho_ktm: pq já fez adiantado
+[0:29:24] nuno_miguel_23: Fizeram reset ao conta km hahah
+[0:30:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[0:30:12] nuno_miguel_23: Foi ao mecanico pedir pra zerar o conta km
+[0:31:11] nuno_miguel_23: Chame o uber ou um taxi
+[0:31:12] pirracoo: Boas cesar, conseguiste ver aquele tal email, o que achaste? abraço e boa live
+[0:32:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:32:22] felisberrtooo: Servidor vai ter manenutação as  3 manha
+[0:32:25] bdf_neves_07: Já conseguiste tirar a carta de bravo?
+[0:32:27] WizeBot: 👤 New FOLLOW(S) ❤ katabambi ❤, WELCOME! (134558 followers) (+3).
+[0:32:44] manuelavsc: Já foste ao ginásio hoje ou não
+[0:33:06] carlitos_cs: cesarv3Cabritaa cesarv3Cabritaa cesarv3Cabritaa
+[0:33:25] nesquik1401: liliav2Lilidizima
+[0:33:36] nuno_miguel_23: Hahahahhaha
+[0:33:41] tiago__silva___: ya o server vai estar em manutenção as 3 da manhã
+[0:33:47] bdf_neves_07: liliav2Lilidizima
+[0:34:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[0:34:06] nuno_miguel_23: Hahaha
+[0:34:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[0:35:21] nuno_miguel_23: Se ta de motocross e msm pra andar aos saltos e n sao pequenos os q se mandam na realidade
+[0:35:42] rammstein_life: ainda n conseguiram resolver a cena do outro dia?
+[0:36:01] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[0:37:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:37:12] nuno_miguel_23: Tens assistende google no gps e td
+[0:37:21] nuno_miguel_23: Assistente*
+[0:38:15] windowsxp1982: Perdeu...Perdeu...
+[0:38:48] DrMysticK95: iris pub
+[0:39:01] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[0:39:14] felisberrtooo: vdm
+[0:39:14] lourencoindio: wish
+[0:39:19] passinhas17: AHAHAHAHAHAHAHAH QUE JARDALHGAO
+[0:39:19] nuno_miguel_23: Ca puta
+[0:39:22] nuno_miguel_23: Hahahah
+[0:39:24] windowsxp1982: LUL
+[0:39:38] windowsxp1982: Que p... de estoiro LUL
+[0:40:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[0:40:02] rammstein_life: fds
+[0:40:04] santy_mp_22: Clip
+[0:40:22] nuno_miguel_23: Xasus ahaha
+[0:40:46] rammstein_life: que puta
+[0:41:03] windowsxp1982: Isto foi pior que 1 TGV :D
+[0:41:07] lourencoindio: inem da boleia
+[0:41:27] paramedic_portugal: motas da sata
+[0:42:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:42:24] rammstein_life: by TAP
+[0:42:49] HoroGaming: que disseram?
+[0:42:58] windowsxp1982: Thursday Bloody Thursday LUL
+[0:43:01] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[0:43:36] WizeBot: 【 391 viewers (+109) ⏰ 43m 41s 】
+[0:44:08] HoroGaming: pronto
+[0:44:20] ReziaK__: Mas ja fizeste isso nao?
+[0:44:41] ReziaK__: Ahh em simultaneo
+[0:44:43] felisberrtooo: @HoroGaming   n estou perceber por causa plaformas
+[0:44:44] ReziaK__: Sorry
+[0:44:53] goncalof00: Vais fazer em q plataformas?
+[0:45:08] windowsxp1982: @goncalof00 Twitch - Kick
+[0:45:28] rammstein_life: ROXO E VERDINHO
+[0:45:35] windowsxp1982: !caps
+[0:45:35] Streamlabs: Por favor, não utilizar caps !
+[0:45:41] goncalof00: Okok obrigado
+[0:45:47] rammstein_life: srry
+[0:46:24] Dom_Capote: direitinho
+[0:46:24] windowsxp1982: Outra vez?
+[0:46:26] pisca6998: ele fez de preposito
+[0:46:38] skyggge: Pimba na beiça
+[0:46:44] Dom_Capote: ahahahahahahahahah
+[0:46:51] Dom_Capote: era prisão nesse
+[0:46:52] WizeBot: 👤 New FOLLOW(S) ❤ m1guel79 ❤, WELCOME! (134559 followers) (+4).
+[0:46:57] nunixsilva: LUL
+[0:47:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:47:07] madrux_: foi completamente de proposito
+[0:47:12] rammstein_life: cesarv3PIMBA cesarv3PIMBA cesarv3PIMBA
+[0:47:15] madrux_: meu deus
+[0:47:17] windowsxp1982: O carro é que desviou LUL e quem estava a conduzir?
+[0:47:27] rammstein_life: mm
+[0:47:34] ReziaK__: Parece um pino de bowling essa mota Kappa
+[0:47:34] spartan2895: o carro desvia sozinho agora
+[0:47:57] WizeBot: 👤 New FOLLOW(S) ❤ nbedagive1s ❤, WELCOME! (134577 followers) (+5).
+[0:48:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[0:48:07] windowsxp1982: @spartan2895 É os novos Tesla de Musk que são umas grandes merdas
+[0:48:17] cocas42: LUL
+[0:48:25] spartan2895: por falar em tesla hoje andei num tesla no uber @windowsxp1982
+[0:48:27] eduzzzz21: LUL
+[0:48:28] tiago__silva___: Hahahahahahha
+[0:48:30] tiago__silva___: Que troll
+[0:48:34] felisberrtooo: LUL
+[0:48:55] windowsxp1982: @spartan2895 E gostaste de estares?
+[0:49:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[0:49:01] canotorto: canotorto watched 5 consecutive streams this month and sparked a watch streak! 
+[0:49:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[0:49:36] spartan2895: @windowsxp1982  so pegava no ecra o resto... eh igual ahahha
+[0:49:47] windowsxp1982: Para mim,carros electricos e automáticos não são para mim - Tem que ser carros a gasoleo ou gasolina
+[0:50:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[0:50:06] windowsxp1982: E muito menos os antigos carros a GPL
+[0:50:44] nishazinhaa: hellooo
+[0:50:56] windowsxp1982: Boas :) <3 @nishazinhaa
+[0:51:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[0:51:09] spartan2895: @windowsxp1982  o meu carro é a GPL
+[0:51:14] nishazinhaa: @windowsxp1982 Olá windowss!!
+[0:51:17] windowsxp1982: windowsxp1982 gifted a Tier 1 sub to nishazinhaa! They have given 486 Gift Subs in the channel! 
+[0:51:19] WizeBot: ⭐️ NEW SUB ⭐️ nishazinhaa (+21) ⭐️ (🎁 Offered by windowsxp1982)
+[0:51:28] AFR0SHEEP: @nishazinhaa xixi e cama
+[0:51:30] nishazinhaa: @windowsxp1982 não falhas LUL obrigada TwitchUnity
+[0:51:33] rammstein_life: @windowsxp1982 tem carros a GPL que compensa
+[0:51:34] rubenexxx23: Boas
+[0:51:38] windowsxp1982: @nishazinhaa De nada :) <3
+[0:51:54] nishazinhaa: @AFR0SHEEP vai tu que amanhã trabalhas oupa
+[0:52:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:52:43] windowsxp1982: @spartan2895 Pois,eu compreendo-te
+[0:53:06] spartan2895: e digo-te mais @windowsxp1982  nao noto diferença nenhuma no carro, funciona igual forma como a gasoleo e a gasolina
+[0:53:44] windowsxp1982: @rammstein_life Digo-te,hoje em dia nada compensa a não ser carros a gasolina ou gasoleo,tudo o resto é só para o grande comercio e que estão a poluir mais mas pronto cada 1 tem a sua propria opinião
+[0:54:13] labf14: @spartan2895 n é supostamente "mais fraco"?
+[0:54:29] rammstein_life: @windowsxp1982 com um carregamento de gas a carrinha do meu pai faz 500km com 1/4 de gasolina
+[0:54:39] rammstein_life: @rammstein_life compensa bues
+[0:54:59] labf14: cesar ja pensaste jogar tenis com raquetes LUL
+[0:55:02] windowsxp1982: @spartan2895 O problema é que não podes estacionar nos lugares subteranos,tens de deixar cá fora porquê a gás senão se há 1 fuga,o carro arrebenta
+[0:55:07] labf14: com essas*
+[0:55:24] labf14: com essas raquetes LUL LUL
+[0:55:28] rammstein_life: @windowsxp1982 o sistema novo podes
+[0:55:32] labf14: tens uma mao ca p*ta
+[0:55:36] WizeBot: 👤 New FOLLOW(S) ❤ Carvalho_SM ❤, WELCOME! (134629 followers) (+6).
+[0:55:54] spartan2895: @labf14  nao noto muito diferença mas tambem nao sou de fazer grandes viagens devido a ser antigo mas anda como e nota-se a diferença no preço nem a 1 euro eu coloco gas
+[0:56:34] spartan2895: @windowsxp1982  isso mudaram as regras, acho que agora ja podes colocar desde que o teu carro possua certo requerimento
+[0:56:53] tiago__silva___: LUL LUL LUL
+[0:57:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[0:57:01] windowsxp1982: @rammstein_life Se tu dizes mas comigo vai ser sempre um carro a gasolina ou gasoleo com mudanças e não automáticos
+[0:57:27] windowsxp1982: @spartan2895 Mas não é para todos os carros
+[0:57:29] spartan2895: @windowsxp1982  mas vai te habiturando que a tendencia é ser so automatico
+[0:57:51] rammstein_life: olha eu digo te o meu é a diesel é um carro que puxa bem mas n bebe muito eu com um deposito a andar bues km dura me duas semanas para mim n compensa a gaz mas para quem faz muitos mais que eu faz @windowsxp1982
+[0:58:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[0:58:05] rammstein_life: @spartan2895 odeio automaticos
+[0:58:27] HoroGaming: eu ainda tenho de ver que carro vou arranjar
+[0:58:28] windowsxp1982: @spartan2895 Deixa essa tendência e tu vais ver que daqui alguns 10-20 anos,a maioria dos carros vão vir tudo manual
+[0:58:30] tiago__silva___: LUL LUL LUL LUL
+[0:59:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[0:59:24] Skatricks: fogo é reports todos os dias :(
+[0:59:41] spartan2895: @windowsxp1982  esses serao os exclusivos
+[1:00:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[1:00:15] Skatricks: @windowsxp1982 infelizmente não porque lá fora já é quase tudo automatico :/
+[1:00:22] WizeBot: 👤 New FOLLOW(S) ❤ mattiagame00 ❤, WELCOME! (134630 followers) (+7).
+[1:00:40] spartan2895: @rammstein_life  eu gosto de sentir as mudanças, mas ja me habituei tanto a uma coisa como a outra...
+[1:00:40] gamerrafa9: a gnr e psp fazem a mesma coisa?
+[1:00:57] windowsxp1982: @spartan2895 Já estive em 2 carros automáticos - 1 aqui e outro na Suiça e digo-te não me senti satisfeito porque os condutores metiam logo a mudança mas o motor parecia que não o ouvias e também não tens aquela "potência" em ouvires o motor a pedir a 2ª-3ª,etc..
+[1:01:09] anacosta091: Buenas noches a todos! cesarv3IMACULADA cesarv3IMACULADA
+[1:01:15] rammstein_life: @spartan2895 o meu popo tem 25 anos mais velho que eu e está um brinco 0 problemas e adoro n consigo mudar
+[1:01:33] windowsxp1982: @gamerrafa9 Não - A GNR é fora da cidade e a PSP é dentro da cidade :)
+[1:01:42] windowsxp1982: @anacosta091 Boas :) <3
+[1:01:44] leaoalvalade_12: @windowsxp1982 automáticos não têm mudanças aquilo muda sozinho
+[1:02:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:02:00] 3llchapo_: Eu tenho um rs7 e é td automático
+[1:02:08] anacosta091: @windowsxp1982 então tudo bem? :)
+[1:02:13] spartan2895: e eu tenho de acordar as 9 da manha
+[1:02:19] spartan2895: as 4 da manha digo
+[1:02:19] gamerrafa9: !psp
+[1:02:20] bruninho_4i20: cesarv3Aver
+[1:02:29] spartan2895: e estou aqui..
+[1:02:41] WizeBot: 👤 New FOLLOW(S) ❤ filipe53522 ❤, WELCOME! (134630 followers) (+8).
+[1:02:44] windowsxp1982: @leaoalvalade_12 Pois isso eu sei mas não dá pica porque quem tirou a carta com 1 carro manual,não vai mudar para 1 automatico,acho eu mas para mim 1 manual será sempre manual nem que ter gastar 1 pouco mais
+[1:02:59] windowsxp1982: @anacosta091 Optimo como sempre e contigo?
+[1:03:02] gamerrafa9: !psp
+[1:03:13] gamerrafa9: !gnr
+[1:03:13] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[1:03:32] anacosta091: @windowsxp1982 vai-se estando
+[1:03:42] WizeBot: 👤 New FOLLOW(S) ❤ cr4zyl0k0 ❤, WELCOME! (134632 followers) (+9).
+[1:04:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[1:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[1:04:49] WizeBot: 【 417 viewers (+26) ⏰ 1h 4m 55s 】
+[1:05:02] windowsxp1982: Agora com os novos carros da Tesla e afins que dá para fazer muita coisa,está a estragar tudo e mais alguma coisa e ainda a poluição vai ser cada vez pior
+[1:05:48] dreac32: Não há greve de tratores aí ?
+[1:06:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[1:06:06] windowsxp1982: E vejo que as peças dos carros electricos custam mais de 1 peça de 1 carro a gasolina ou gasoleo :)
+[1:06:22] windowsxp1982: @dreac32 Isto é apenas 1 jogo e não a vida real :)
+[1:06:49] periquitak: boasss
+[1:06:59] windowsxp1982: Boas :) @periquitak
+[1:07:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:07:26] periquitak: @windowsxp1982 olaa tudo bem ?
+[1:07:40] windowsxp1982: Tudo optimo e contigo? @periquitak
+[1:08:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[1:08:00] periquitak: @windowsxp1982 tambem esta tudo bom obrigadooo
+[1:09:06] SMKH_233: foi o bvento foi so me fodes
+[1:10:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[1:18:15] frigorifico222: boas chat e cesar
+[1:18:48] rammstein_life: @frigorifico222 boasss
+[1:19:08] WizeBot: 👤 New FOLLOW(S) ❤ universe_2002 ❤, WELCOME! (134631 followers) (+10).
+[1:19:44] HallucReturns: Boas noites
+[1:20:39] betomoreira: Yah fica aí
+[1:21:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[1:22:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:22:39] mamadu_pt: WHAT UP
+[1:23:09] windowsxp1982: !caps
+[1:23:10] Streamlabs: Por favor, não utilizar caps !
+[1:23:28] WizeBot: 👤 New FOLLOW(S) ❤ dartacaoo ❤, WELCOME! (134632 followers) (+11).
+[1:25:07] WizeBot: 【 411 viewers (-6) ⏰ 1h 25m 13s 】
+[1:27:01] caramazing: Kappa
+[1:27:36] rammstein_life: cesarv3BAMOS cesarv3BAMOS cesarv3BAMOS
+[1:28:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[1:28:15] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[1:29:38] simao2928: boas
+[1:30:33] carlosdaniel19862: Boas
+[1:31:29] We__2: Alo a todo o mundoo como estamos hoje? ☺️
+[1:32:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:32:09] We__2: Sempre bem! Agora que o trabalho acabou já estou melhor 😂😂
+[1:32:32] rammstein_life: cesarv3Jordao
+[1:33:44] caramazing: LUL
+[1:33:44] We__2: LUL LUL
+[1:34:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[1:34:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[1:36:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[1:38:24] bdf_neves_07: Vê se isso não salta
+[1:39:42] diniz_ferndez: !donate
+[1:39:42] Streamlabs: Podes apoiar aqui o streamer através: MBWAY ---» https://tipme.to/cesarvsc     https://streamlabs.com/cesarvsc  https://www.tipeeestream.com/cesarvsc/donation
+[1:40:39] 351guii7: Oque é EIR?
+[1:41:21] diogosilv22: Olá César já assisto as tuas lives a bastante tempo e sempre adorei o conteúdo, mas há uns tempos pra cá o server tem sido bastante repetitivo tenho saudades da altura dos Bandoleros ou outros grupos que faziam sempre coisas novas que acrescentava ao server, achas que vai haver novidades por aí, é só a minha opinião adoro o teu conteúdo na mesma, grande abraço bom resto de live
+[1:41:30] HoroGaming: bem amigos voudormir
+[1:41:35] HoroGaming: resto de boa noite
+[1:41:38] HoroGaming: e portem se bem
+[1:41:57] rammstein_life: @HoroGaming xauuu
+[1:42:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:42:14] HoroGaming: rammstein_life cya, porta te bem!
+[1:42:16] Yr0kumata: Kkkkkkkk
+[1:42:19] We__2: Boa noite @horogaming
+[1:42:45] rammstein_life: @HoroGaming cesarv3IMACULADA cesarv3IMACULADA
+[1:42:46] 351guii7: César oque é EIR?
+[1:43:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[1:43:01] diogosilv22: Eu sei mas como és uma pessoa muito ativa no server podiam sempre tentar algo diferente para o server tipo eventos ou algo assim
+[1:43:09] noax2391: equipa de intrevençao rapida
+[1:43:13] Yr0kumata: Equipa intervenção rapida
+[1:43:24] noax2391: Ahahahahahaha
+[1:43:26] WizeBot: 👤 New FOLLOW(S) ❤ djdjjdhdhhdhdjdi3838 ❤, WELCOME! (134631 followers) (+12).
+[1:43:29] hugopt79: !EIR
+[1:43:37] noax2391: Yes
+[1:43:46] hugopt79: !epri
+[1:43:46] Streamlabs: EPRI - Equipa de Prevenção e Reação Imediata
+[1:43:49] Yr0kumata: Eu também a entrar na casa do Madureira LUL
+[1:43:51] bdf_neves_07: DI é destacamento de intervenção?
+[1:43:52] 351guii7: Devias ser gnr, na vida real
+[1:43:52] noax2391: Tambem vi a EPRI foi prender o Macaco lider @Cesarvsc
+[1:43:54] franja1k: eu vi a eir epri e uep no Benfica Estoril
+[1:43:55] 351guii7: 🤣🤣🤣🤣
+[1:44:20] hugopt79: Ja nn vais a paisana a bue
+[1:44:22] r084m082: Eu vi a epri e a eir em leiria quando foi a alliaz cup
+[1:44:26] goncalof00: @bdf_neves_07 Departamento
+[1:44:32] 351guii7: VSC melhor clube pá 💪🏿❤️ do coração
+[1:44:36] spartan2895: tudo pa cadeia
+[1:44:44] semilha124: cesarv3Bora
+[1:44:47] Yr0kumata: Como é que um gajo tem 50k em casa e mais de 100 bilhetes para jogos ResidentSleeper
+[1:44:58] HallucReturns: cesarv3Aver
+[1:45:02] spartan2895: poupanças kappa
+[1:45:12] semilha124: cesarv3Kappa
+[1:45:23] TonyStarkXK9: @Yr0kumata poupança
+[1:45:25] TonyStarkXK9: ahaha
+[1:45:32] Yr0kumata: @spartan2895 abanca pinto da costa, mais assim ahah
+[1:45:45] TonyStarkXK9: eu sou do Porto. mas nao tenho pena nenhuma do que esta a acontecer..
+[1:45:59] WizeBot: 【 502 viewers (+91) ⏰ 1h 46m 4s 】
+[1:46:23] 351guii7: Autoestrada
+[1:47:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:47:02] Skatricks: "na ribeira, já se nasce dragoum, de brinco na orelha e fugante na maoum"
+[1:47:13] Mr_Steaks_: HeyGuys
+[1:47:29] HallucReturns: cesarv3Bora cesarv3Driver
+[1:47:59] sporting_2024: Já estou cá de novo
+[1:48:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[1:48:32] sporting_2024: Estou cansado
+[1:48:39] Yr0kumata: Anda totil esse carro ahah
+[1:49:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[1:49:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[1:50:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[1:51:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[1:51:27] puxafreitas: LOL
+[1:51:40] felisberrtooo: LUL 󠀀
+[1:52:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[1:55:16] sugo_delas_69: vai a procura de jordoes
+[1:56:13] pdrinho99: Repara o teu tambem
+[1:56:16] bdf_neves_07: Repara
+[1:56:34] bdf_neves_07: Ele ficou com mais gota
+[1:58:10] Suubzor: Suubzor watched 3 consecutive streams this month and sparked a watch streak! 
+[1:58:16] rodi_olz: porque e que deixam sempre proseeguir?
+[1:58:36] vbastosbsk: vbastosbsk watched 15 consecutive streams this month and sparked a watch streak! 
+[1:58:49] rodi_olz: okok, a pergunta foi só porque ão percebo muito de rp
+[1:58:55] m_AUSE: o problema é que muitos nao retribui fair  play
+[1:59:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[1:59:13] tiago__silva___: @m_ause lá está
+[1:59:17] carma_03: foi inteligente ele
+[1:59:20] tiago__silva___: Tens aí o resultado
+[1:59:40] hugo_martins99: Toma la
+[1:59:46] tekiillaaa: foi muito bem jogado por ele tmb
+[2:00:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[2:00:05] tomas_fole11: @tekiillaaa achas que sim ?
+[2:00:07] Skatricks: ya foi boa fuga
+[2:00:13] chapaxfn: nem sempre podemos ser bons
+[2:00:38] Sena1one: aquela troca foi bem jogado
+[2:00:39] WizeBot: 👤 New FOLLOW(S) ❤ diogo_122222 ❤, WELCOME! (134631 followers) (+13).
+[2:00:40] tekiillaaa: @tomas_fole11 sem dúvida
+[2:01:05] diogo_122222: Tu tiveste ganda fair play e eles trocam de um carro pra uma mota
+[2:01:07] felisberrtooo: LUL
+[2:01:10] sporting_2024: Não foi nada bem jogado
+[2:01:16] tiago__silva___: Não achei assim nada de especial idk
+[2:01:20] tomas_fole11: @tekiillaaa depois de tanto fair play da policia fazer isso na minha opiniao nao é bem jogado
+[2:01:32] tiago__silva___: Ainda por cima depois do fairplay do César
+[2:01:39] Skatricks: @tomas_fole11 é foi mal jogado então
+[2:01:40] WizeBot: 👤 New FOLLOW(S) ❤ ti_g_o_ ❤, WELCOME! (134633 followers) (+14).
+[2:01:53] Sena1one: agora Tao fdds auahaha
+[2:01:58] m_AUSE: eles pensam que fair play é caridade
+[2:02:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:02:01] tomas_fole11: @Skatricks exatamente
+[2:02:31] camila_oliveira99: depois de tanto fair play
+[2:02:34] Yr0kumata: Eu jogava o carro para cima😂
+[2:02:42] camila_oliveira99: camila_oliveira99 watched 7 consecutive streams this month and sparked a watch streak! palhaçada
+[2:02:47] Skatricks: @tomas_fole11 foi a pior jogada de sempre, talvez desta década
+[2:03:28] duartesantiago77: duartesantiago77 subscribed at Tier 1. They've subscribed for 3 months, currently on a 2 month streak! boas rei  és o maior
+[2:03:28] Streamlabs: duartesantiago77 just subscribed with Tier 1!
+[2:03:28] WizeBot: ⭐️ RE-SUB ⭐️ duartesantiago77 (+22) ⭐️
+[2:03:32] tomas_fole11: @Skatricks quando nao se quer perceber ...
+[2:03:37] Ozzy_zy: bouas +uma vez
+[2:03:39] tiago__silva___: BEM JOGADOOO
+[2:03:48] chapaxfn: bora
+[2:03:52] chapaxfn: bem feita
+[2:03:54] tiago__silva___: Lindoooo
+[2:04:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[2:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[2:04:17] rodi_olz: mas ele nao podia trocar era isso?
+[2:04:19] matos_22: ele disse para o puxares
+[2:04:20] Yr0kumata: Perdeu playboy LUL
+[2:05:19] Cachorrinho_KTM: pede radio
+[2:05:25] Alex2mix: Alex2mix watched 3 consecutive streams this month and sparked a watch streak! .
+[2:05:30] st_mirandaa: tá tudo César?
+[2:05:38] matos_22: cesar es o maior, curto boe de ver  as tuas a streams
+[2:05:50] Vongod77: olha já vistes anúncios no galia mano @Cesarvsc
+[2:05:59] rodi_olz: mas ele nao podia trocarde veiculo era isso?
+[2:06:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[2:06:03] elinhosntc: foste chunga o cesar
+[2:06:07] elinhosntc: o cristas não tem culpa ne
+[2:06:24] pauloasl12: Boas César! Boa LIve!Abraço
+[2:06:28] sporting_2024: @elinhosntc NotLikeThis NotLikeThis
+[2:06:51] magicosopas: Quando tento mudar a tecla de falar do N para outra não tecla e não estou a conseguir alguém ja teve esse problema?
+[2:06:51] Fariamos: @elinhosntc vieste da live do cristas só para dizer isso...
+[2:07:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:07:05] Owir: foste sim senhora
+[2:07:09] rammstein_life: NotLikeThis NotLikeThis NotLikeThis
+[2:07:13] WizeBot: 【 623 viewers (+121) ⏰ 2h 7m 18s 】
+[2:07:13] elinhosntc: eu sei o dimitri foi porco
+[2:07:14] Owir: ele teve culpa dos outros ?
+[2:07:30] rammstein_life: meu amigo ahahah
+[2:07:30] elinhosntc: @fariamos bro eu já sigo o César ao tempo..
+[2:07:46] oliveirinha35: Podia ter trocado mas se não tive-se arma apontada e o cesar não tive-se Dado a volta
+[2:08:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[2:08:00] ltaz32: @Cesarvsc tens de dar rr
+[2:08:04] magicosopas: O meu jogo está igual
+[2:08:48] magicosopas: Tive de dar rr
+[2:08:50] martimbruno: Aumenta o extend
+[2:09:16] migalhas_200: apareceste do vídeo do jonmendes ahahaha
+[2:09:29] elinhosntc: Ahahaha não foste nada
+[2:09:35] elinhosntc: oh pá é rp
+[2:09:37] sporting_2024: Não és nada @cesarvsc
+[2:09:40] Cordeiro66: Qual cripto barata achas que vai valorizar mais ao longo dos anos?
+[2:09:45] elinhosntc: mas o cristas ficou fdd
+[2:09:47] Cordeiro66: Ou não percebes da area?
+[2:09:48] martimbruno: Pq não usas reshade
+[2:09:55] rodi_olz: cesar ele nao podia trocar de veiculo e isso?
+[2:09:57] rammstein_life: ja viste que mm que faças as cenas bem reclamam sempre?
+[2:09:59] made_in_pt: @cordeiro66 stream errada bro
+[2:10:00] Ozzy_zy: abrir as pernas? para arejar os..? :D
+[2:10:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[2:10:15] elinhosntc: sim isso sim
+[2:10:19] migalhas_200: agora quando ele foi atacado por bo… e tu mandaste mensagem a ele e ele tava a dizer que o ajudaste
+[2:10:20] toju1703: se o ze to fosse outro metia report acho que foi bem simpática
+[2:10:23] Skatricks: @rodi_olz podia porque tinha ajuda exterior
+[2:10:27] martimbruno: Pq não usas reshade num PC tão bom
+[2:10:53] rodi_olz: @Skatricks ajuda exterior?
+[2:11:04] Skatricks: @rodi_olz sim
+[2:11:11] rodi_olz: alguem a ajuda lo certo?
+[2:11:22] Cachorrinho_KTM: olha o rport
+[2:11:32] rodi_olz: tipo um amigo a dar lhe carro?
+[2:11:42] flashscore_pt: Naooo bro @rodi_olz
+[2:11:51] rodi_olz: @Skatricks obrigado rei
+[2:11:57] rodi_olz: entao?
+[2:11:59] Skatricks: @rodi_olz sim ajuda exterior é ter ajuda de pessoal fora do assalto inicial
+[2:12:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:12:01] st_mirandaa: pessoal @everyone porque já mudaram alguns nomes das empresas como a Sata, norauto
+[2:12:08] costapire: Boa noite amigo
+[2:12:22] rodi_olz: @Skatricks okok obrigado, percebi
+[2:12:30] Joao99c: boas noites
+[2:12:57] CristianinhoTV: Boa noite rei
+[2:13:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[2:13:02] CristianinhoTV: Boa noite chat
+[2:13:16] Miguel_aka_Some: kit unhas xd
+[2:13:41] st_mirandaa: pessoal everyone porque já mudaram alguns nomes das empresas como a Sata, norauto, centrovia etc
+[2:14:20] felisberrtooo: @st_mirandaa five m n deixou , acho eu
+[2:14:30] oliveirinha35: 1560
+[2:14:58] oliveirinha35: O rapaz disse a radio
+[2:14:59] st_mirandaa: ok @felisberrtooo rp vai perder assim a piada pq disso mas vai se ver
+[2:15:03] sporting_2024: Radio 1560 @cesarvsc
+[2:15:27] WizeBot: 👤 New FOLLOW(S) ❤ gsabio00 ❤, WELCOME! (134634 followers) (+15).
+[2:15:37] mcedu_18: boas
+[2:16:10] BRUNEXX_95: Boas Noites
+[2:16:31] el_nata23: pedrobragaEIABEM
+[2:16:40] botas86ba: botas86ba watched 3 consecutive streams this month and sparked a watch streak! boas noites
+[2:16:46] BRUNEXX_95: Estamos bem e o senhor? Como está a correr o seu dia?!
+[2:17:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:17:13] fernandoesteves: fernandoesteves subscribed at Tier 1. They've subscribed for 5 months! 
+[2:17:13] Streamlabs: fernandoesteves just subscribed with Tier 1!
+[2:17:14] WizeBot: ⭐️ RE-SUB ⭐️ fernandoesteves (+23) ⭐️
+[2:17:19] felisberrtooo: LUL
+[2:17:46] martimbruno: @cesarvsc infelizmente tou perma e lembro me de tudo aí do server mas claro que curtia um PvPzinho e atão lembro me muito bem da epri e por um acaso vi a epri na TV real e lembrei aí do server
+[2:18:12] Ozzy_zy: LUL LUL LUL LUL
+[2:18:17] felisberrtooo: LUL LUL LUL LUL LUL LUL LUL LUL
+[2:18:18] felisberrtooo: LUL LUL LUL LUL LUL LUL LUL LUL 󠀀
+[2:18:19] sporting_2024: LUL LUL LUL LUL
+[2:18:22] Souzavr_: Mais um clip para os melhores momentos hahaha
+[2:18:24] felisberrtooo: Uau que Lenda
+[2:18:26] ruimiguelrelvas1991: 😅😅😅
+[2:18:26] Ozzy_zy: skydiving subterraneo
+[2:18:27] Alex2mix: LUL LUL
+[2:18:28] felisberrtooo: LUL
+[2:18:30] rammstein_life: LUL LUL LUL NotLikeThis NotLikeThis NotLikeThis
+[2:18:47] Souzavr_: Tem que estar nos melhores momentos isso xD
+[2:19:01] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[2:19:15] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[2:19:16] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[2:19:26] martimbruno: @cesarvsc infelizmente tou perma e lembro me de tudo aí do server mas claro que curtia um PvPzinho e atão lembro me muito bem da epri e por um acaso vi a epri na TV real e lembrei aí do server
+[2:19:56] Ozzy_zy: é emprestadado
+[2:20:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[2:20:09] magicosopas: Porque não consigo configurar as teclas do jogo alguém já teve o mesmo problema?
+[2:20:45] Ozzy_zy: LUL
+[2:20:56] martimbruno: @cesarvsc infelizmente tou perma e lembro me de tudo aí do server mas claro que curtia um PvPzinho e atão lembro me muito bem da epri e por um acaso vi a epri na TV real e lembrei aí do server
+[2:21:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[2:21:10] anacosta091: @martimbruno atenção ao spam
+[2:22:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:22:39] santiagob123: Boas
+[2:22:47] antifacti0n: ta a dar graxa Kappa
+[2:23:01] carma_03: @cesarvsc como é q isso dos 10-13 funciona isso na vida real tbm é assim tão OP?
+[2:24:13] Joao99c: @carma_03 É idêntico há vida real
+[2:25:24] carma_03: mas na vida real não te aparece uma notificação na cabeça
+[2:27:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:27:15] lopesdigadiga: !graficos
+[2:27:19] WizeBot: 【 538 viewers (-85) ⏰ 2h 27m 25s 】
+[2:27:30] Joao99c: @carma_03 A forma de comunicação dos códigos é que é parecida há vida real
+[2:28:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[2:28:15] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[2:29:06] WizeBot: 👤 New FOLLOW(S) ❤ r1b3ir0_ ❤, WELCOME! (134633 followers) (+16).
+[2:30:33] Bleftin: !gnr
+[2:30:33] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[2:30:39] xavier_c03: disse que tinha sido na olga
+[2:30:47] cksantosss: Ele disse que foi na olga
+[2:30:49] xavier_c03: se ouvi bem
+[2:31:12] chicomats: ate amanha cesar e chat um abraço
+[2:31:17] costapire: Máquina
+[2:31:19] guilhermee_diaas: para entrar na narouto e preciso limpeza de registo?
+[2:31:22] TipmeSupport: Imposto deu uma tip de 10€ e suportou as taxas
+[2:31:22] Streamlabs: Imposto just tipped €10.00!
+[2:31:48] tomas_fole11: n da para ver os alertas
+[2:31:52] infonoobs: SeemsGood
+[2:31:55] chicomats: ate amanha cesar e chat um abraço
+[2:32:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:32:01] guigoncalves1904: César não sei se foi só para mim mas não apareceu o alerta na tela
+[2:32:08] magicosopas: Queria mudar a tecla N para uma tecla do rato mas não consigo
+[2:32:17] guilhermee_diaas: para entrar na narouto e preciso limpeza de registo?
+[2:32:30] bdf_neves_07: Como?
+[2:32:33] Ozzy_zy: isso não te vai puxar pelo pc?
+[2:32:38] lenda____: qual é a plataforma verdinha?
+[2:32:40] vfelixv_: ja nao podes dizer o nome da verdinha?
+[2:32:43] chicomats: claro escolinha
+[2:32:52] CristianinhoTV: Isso vai ser bom , o pessoal pode começar a dar subs la
+[2:33:54] dox_off: Ele é comandante de que comandante
+[2:34:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[2:34:13] dox_off: Ela*
+[2:34:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[2:34:31] dox_off: Okk
+[2:34:48] Andretdi: quem sao esses de fato branco?
+[2:34:56] kravabalas: boa cesar
+[2:35:05] kravabalas: boas malta
+[2:35:37] cdmodzoficial: @Cesarvsc esse carro nao tem matricula ...
+[2:35:46] rammstein_life: HeyGuys HeyGuys HeyGuys
+[2:36:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[2:36:16] kravabalas: a esta
+[2:36:20] kravabalas: ja esta
+[2:36:59] kravabalas: esse e terrorista xD
+[2:37:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:38:34] Garfadas: é o Danny não era ?
+[2:38:38] katire: RP realista fds top
+[2:38:51] cocas42: um Deportado
+[2:38:55] Joao99c: o dany foi só cuscar
+[2:39:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[2:39:06] CristianinhoTV: Mas esse tipo de rp é fixe mano
+[2:39:23] kravabalas: queria apoiarte mas começei a trabalhar agora . gostaria de te dar um subrescrever a t e a todos do portugalia
+[2:39:28] vehnie: as operacoes da goe tambem deviam ser nesse estilo
+[2:39:40] slayy44: boas noites❤️
+[2:39:41] vehnie: com pj a acompanhar e transporte de prisioneiros
+[2:39:42] katire: esta mais que otimo dentro dos possiveis
+[2:40:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[2:41:49] carapitopotter: !pc
+[2:41:49] Streamlabs: carapitopotter -> You do not have permission to use !pc.
+[2:41:49] weedzinho: boas sua badalh Kappa
+[2:41:56] katire: agora tava aqui a pensar pq achei bue realista ... foi mais a comunicaçao top formal esclarecedora e depois chega o sujeito a perguntar se a garagem tava fecha, e o realismo voltou
+[2:41:57] weedzinho: não preciso de dizer o resto Kappa
+[2:42:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:42:11] carapitopotter: !setup
+[2:42:29] felisberrtooo: @weedzinho  SEU DESPARECIDO
+[2:42:30] felisberrtooo: caps
+[2:42:46] CristianinhoTV: Cod 0 o teu parceiro
+[2:43:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[2:43:12] Alex2mix: Do outro lado
+[2:43:19] Alex2mix: Vi os tiros
+[2:43:22] itzfalcao: conflito ai??
+[2:43:50] Joao99c: o teu camarada tá com problemas já é a segunda vez que teve código 0
+[2:44:08] Ozzy_zy: estão á caça de pombos :D
+[2:44:47] cmad_8210: so querem bala
+[2:44:50] TNMiranda11: ui volta a live é ja estas ao estouro
+[2:45:10] kikao_12: que casa a arder
+[2:45:20] weedzinho: @felisberrtooo como é?
+[2:45:26] felisberrtooo: @felisberrtooo estamos fixe e tu ?
+[2:45:46] santo_tirso: da-lhe bring
+[2:45:54] weedzinho: @felisberrtooo ainda bem, tambem bro
+[2:46:03] TNMiranda11: será que vai dar report?
+[2:47:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:48:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[2:48:34] WizeBot: 【 511 viewers (-27) ⏰ 2h 48m 39s 】
+[2:48:37] oliveirinha35: Gasolina
+[2:48:48] CristianinhoTV: Ao lado de uma prisão ao tiroteio Kappa
+[2:48:49] iz_tiago: !hierarquia
+[2:48:49] Streamlabs: Hierarquia PSP: - Diretor Nacional - Diretor Nacional Adjunto - Superintendente Chefe -Superintendente - Intendente - Subintendente - Comissário - Subcomissário - Chefe Coordenador - Chefe Principal - Chefe - Agente Coordenador - Agente Principal - Agente - Agente em Formação
+[2:48:53] guigoncalves1904: Malta eles não podem estar a disparar de um lado para o outro da autoestrada
+[2:49:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[2:49:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[2:49:22] guigoncalves1904: Malta porque se for assim que passa na autoestrada leva tiro cruzado e não tem nada haver com o assunto.
+[2:49:33] CristianinhoTV: Eles podem mas q aguentem as consequências com a polícia
+[2:49:34] Candeiasvsc: @guigoncalves1904 podem sim mas não devem
+[2:49:46] Joao99c: @guigoncalves1904 poder podem mas não deviam
+[2:50:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[2:50:29] kravabalas: cesardalhe
+[2:51:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[2:51:31] mr_palomar: mr_palomar watched 10 consecutive streams this month and sparked a watch streak! Palomino, não sei, mas o Palomar está cá!
+[2:51:48] camila_oliveira99: essa cena da pj e fixe
+[2:51:52] TNMiranda11: TNMiranda11 watched 10 consecutive streams this month and sparked a watch streak! 
+[2:52:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:52:10] dr9ken: !gnr
+[2:52:10] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[2:52:25] kravabalas: la vai ele de surra
+[2:53:05] kravabalas: o cesar e granda maquina
+[2:53:34] kravabalas: hahha minetes xD
+[2:53:43] coimbra_tec: 3 raiders from coimbra_tec have joined! 
+[2:53:44] Streamlabs: coimbra_tec just raided the channel with 3 viewers!
+[2:53:45] capi_ktm: roleplayyyyy
+[2:53:48] TNMiranda11: ainda vais voltar para a kick?
+[2:53:51] felisberrtooo: @capi_ktm LENDA
+[2:54:02] rodi_olz: a que horas acaba a live?
+[2:54:24] kravabalas: bazou
+[2:54:49] widro_: 1 raiders from widro_ have joined! 
+[2:54:49] Streamlabs: widro_ just raided the channel with 1 viewers!
+[2:54:55] kravabalas: tiro n pneu
+[2:55:21] WizeBot: 👤 New FOLLOW(S) ❤ ricassfn_77 ❤, WELCOME! (134634 followers) (+17).
+[2:55:23] santo_tirso: oh fds
+[2:55:30] santo_tirso: nem mete piada fazer isso
+[2:55:32] peixinho_s2_ktm: da tiro de saiga no pe
+[2:56:10] elv1ruz: Boas noites capitão Zé Tó e chat!
+[2:56:16] peixinho_s2_ktm: @santiiirs ser preso tmb n
+[2:56:24] TNMiranda11: nem animação fez ao saires do carro
+[2:56:30] Joao99c: normal o medo ficou em casa
+[2:56:38] kravabalas: nessa sena axo que dava tiro patrao
+[2:56:46] santo_tirso: @elv1ruz Boas! Como estas?
+[2:57:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[2:57:01] KunangaJR_tv: se a gente for puxar por vida real a mota ate soube mais do que isso !!
+[2:57:09] kravabalas: mas apontaste
+[2:57:29] kravabalas: sim mas nao sei
+[2:57:35] Joao99c: @kravabalas Sim com o objectivo de ele se render
+[2:57:37] TNMiranda11: nem tudo se baseia em tiros
+[2:57:41] Ozzy_zy: não estás com a arma que disparas para os pés, bate nas unhas e matas? :D
+[2:57:47] elv1ruz: @santiiirs sempre rijo e por ai?
+[2:58:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[2:58:25] elv1ruz: cesarv3OhDiabo
+[2:58:28] WizeBot: 👤 New FOLLOW(S) ❤ rodriaxd ❤, WELCOME! (134635 followers) (+18).
+[2:58:44] Filipe04gg: O gajo desceu o monte abrir e ainda reclama LUL
+[2:58:46] santo_tirso: @elv1ruz tambem
+[2:58:58] santo_tirso: isso é que é preciso.
+[2:59:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[2:59:09] peixinho_s2_ktm: esse ja foi
+[2:59:09] Ozzy_zy: LUL LUL NewRecord NewRecord MaxLOL
+[2:59:13] santo_tirso: EIA QUE POKEMON ahahaha
+[2:59:13] elv1ruz: mai nada! @santiiirs
+[2:59:14] faria55: hahah xapada na cara
+[2:59:16] santo_tirso: LUL
+[2:59:38] TNMiranda11: eu a esse nao poupava nada
+[2:59:40] santo_tirso: @Filipe04gg sim ele estava a tp a 80/90
+[2:59:57] TNMiranda11: comigo levava multas tiravalhe as armas e ainda ia preso
+[2:59:59] Filipe04gg: @
+[3:00:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:00:02] kikao_12: estas não oficiais ficam malucas com o César
+[3:00:02] Ozzy_zy: foi logo chá de 5 saquetas :D
+[3:00:04] Filipe04gg: A ok srry
+[3:00:08] kravabalas: ya
+[3:00:08] frigorifico222: LUL
+[3:00:12] elv1ruz: é logo pimbas
+[3:00:17] the_vulture1: e aqueles saltos nas pedras do monte?
+[3:00:32] Ozzy_zy: cesarv3PIMBA
+[3:00:37] NycFri: vou ate comprar uma x5 pra ir pros montes hehe gostei
+[3:00:38] kravabalas: tou fika maluco xD granda cesar
+[3:00:38] chapaxfn: ahaha tens de ser Zé to a agressivo assim é que é
+[3:00:47] Joao99c: falou na rádio a perseguição toda e ao pé de ti deu vários toques
+[3:00:54] elv1ruz: xôr capitao ze a distribuir
+[3:01:10] peixinho_s2_ktm: ahahah tase a fzr de dificil
+[3:01:19] santo_tirso: esse gajo está com uma letra! digo-te já
+[3:01:26] tiagoolivierifx2009: !gnr
+[3:01:26] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[3:01:30] Ozzy_zy: o taser?? :D
+[3:01:44] badxp_91: ta com medo de perder as armas ahahahaha
+[3:01:49] kravabalas: masculino xD
+[3:01:54] CristianinhoTV: Ele n tava a espera q chegasse o heli tão rápido teve azar
+[3:02:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:02:13] elv1ruz: é o amnesias
+[3:02:21] peixinho_s2_ktm: pj ja
+[3:02:24] kravabalas: 1.67
+[3:02:26] TNMiranda11: ui era ja com pj para cima dele
+[3:02:26] Filipe04gg: LUL LUL
+[3:02:31] capi_ktm: a pj pode gostar desses que têm muitas HAHAHAH
+[3:02:31] the_vulture1: esse é esperto
+[3:02:31] xavier_c03: pj?
+[3:02:35] santo_tirso: operação já
+[3:02:37] el_nata23: Pj LUL
+[3:02:44] Joao99c: siga PJ para rusgar tudo dele
+[3:02:58] frigorifico222: LUL
+[3:03:01] elv1ruz: já fostes
+[3:03:04] peixinho_s2_ktm: ja foi
+[3:03:21] CristianinhoTV: Tá tão queimado agora hahahahah
+[3:03:25] nogueira_2305: #ripsimões
+[3:03:27] capi_ktm: agr ja ta com o rabo apertado AHAHAH
+[3:03:31] santo_tirso: Grande ZETO!
+[3:03:33] capi_ktm: ta amuado tadinho ahahaha
+[3:03:34] santo_tirso: ahahaha
+[3:03:42] Ozzy_zy: LUL LUL
+[3:03:48] capi_ktm: quando tava a fugir n tinha escola ahahaha
+[3:03:50] KunangaJR_tv: se fosse para andar ao tiro ja tinha tempo
+[3:03:50] elv1ruz: ai escola LUL
+[3:04:00] kravabalas: estuda na cela
+[3:04:01] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[3:04:03] CristianinhoTV: Oq q ele disse
+[3:04:07] Ozzy_zy: escola profissional :D
+[3:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[3:04:23] santo_tirso: Para tentar dar fuga tem ele tempo! Mas dormir n é preciso.
+[3:04:37] TNMiranda11: ja nao esta a sair muito de rp
+[3:04:38] wayne_nw: so putos
+[3:04:38] Andrenunes00: Nop
+[3:04:39] davijohn13: não
+[3:04:41] capi_ktm: pouco e bem
+[3:04:42] CristianinhoTV: Tens razão
+[3:04:42] EduardoAreias25: Tá certo
+[3:04:43] the_vulture1: para rusgar tem tempo
+[3:04:44] TNMiranda11: ?*
+[3:04:44] guigoncalves1904: Tens razão
+[3:04:44] elv1ruz: Nah deste-lhes chances para te dizer isso
+[3:04:46] weedzinho: ele sane muito
+[3:04:46] Andrenunes00: Meteu-se no RP, agora aguenta
+[3:04:47] PatriciaNTS: é assim mesmo
+[3:04:48] weedzinho: sabe*
+[3:04:49] nsghost: caso ele saia 2025
+[3:04:50] rammstein_life: cesarv3Senta cesarv3Senta cesarv3Senta
+[3:04:50] barzz2u: tá a falar bem , respeito e bonito
+[3:04:53] kravabalas: a malta nao sabe o que e a vida a serio
+[3:04:53] dudapt_: Bem falado César
+[3:04:53] OBSCUROj_: opa ya, mas a mãe já lhe deve tar a foder o focinho para desligar o pc XDDDDDDDD
+[3:04:55] RaulCigano013: ai primo ze to nao podes ser assim
+[3:04:55] ruicostapabloo: era só guardar a mota e estava tudo bem
+[3:04:59] Filipe04gg: Se fosse PvP já podia ficar até mais tarde LUL
+[3:05:01] fabiomicaelvb: se tem tempo para nao guardar tem tempo para esperar
+[3:05:03] chapaxfn: estás a falar bem
+[3:05:03] kikao_12: não é por isso que não faço rp quando tenho de bazar
+[3:05:12] rodi_olz: so se enterra hahahaha
+[3:05:12] andrecoelho17: Aposto que vai abrir report a dizer que vai ter qur bazar
+[3:05:13] elv1ruz: ele ficou é apertadinho com os payshops
+[3:05:16] the_vulture1: @OBSCUROj_ se tem tempo para rusgar tem tempo para fazer RP
+[3:05:25] Joao99c: ele é que quis fugir agora tem que se aguentar
+[3:05:35] KunangaJR_tv: para andar ao tiro em cima dos montes ja tem tempo suficiente !!   Aguenta que doi menos
+[3:05:43] OBSCUROj_: @the_vulture1 Sim mas calma, à quanto tempo ele já foi apanhado?
+[3:05:45] davijohn13: @Joao99c tal e qual
+[3:05:55] the_vulture1: @the_vulture1 2 minutos +/-
+[3:05:58] ruicostapabloo: e depois ainda está com comentários desnecessários
+[3:05:58] OBSCUROj_: RP é RP claro, mas 23h30, apertado para o puto já xD
+[3:06:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[3:06:02] the_vulture1: 3 talvez
+[3:06:09] OBSCUROj_: ahh xd então ya ele que fique aí @the_vulture1
+[3:06:12] Joao99c: @andrecoelho17 Se o fizer só se trama a ele
+[3:06:30] rammstein_life: @OBSCUROj_ para isso ja n tava a jogar
+[3:06:36] OBSCUROj_: Ele que seja esperto e que diga à mãe que está a estudar para o teste LUL
+[3:06:42] andrecoelho17: @joao99c exato
+[3:06:43] kravabalas: na vida real nao fazem nada disso
+[3:06:48] shiney_08: @OBSCUROj_ mas pra isso ia dormir antes de fazer merda q sabia q podia envolver policia e extender rp xD
+[3:06:55] barzz2u: levou quantos anos?
+[3:07:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:07:19] OBSCUROj_: claro @shiney_08
+[3:07:19] GameJog: 2 raiders from GameJog have joined! 
+[3:07:20] Streamlabs: gamejog just raided the channel with 2 viewers!
+[3:07:24] capi_ktm: nem idade tem pa conduzir e anda em cima de uma mota que é isto
+[3:07:24] GameJog: Olá
+[3:07:24] the_vulture1: quero é ver quando acabar o rp com a pj se vai continuar no jogo
+[3:07:26] elv1ruz: agora dá codigo chinelo antes de chegar os payshops Kappa
+[3:07:29] fellixktm: Amanhã há teste de estudo do meio
+[3:07:32] salgr0ss00: Ele que espere. Se tinha de ir dormir. Não se tivesse aramado em valente
+[3:07:40] OBSCUROj_: Mas é sempre aquela desculpa dos miúdos, é normal
+[3:07:42] rammstein_life: @shiney_08 em pleno juizo n ia criar mais rp se tinha assim tanto ir dormir
+[3:07:44] TNMiranda11: isso não é considerado sair de rp @Cesarvsc
+[3:07:44] ruicostapabloo: Claro só estás a fazer o teu trabalho, ele é que quis esse desfecho todo
+[3:07:48] rammstein_life: exato
+[3:07:48] tiagoolivierifx2009: Se não fosse detido já não tinha de ir dormir
+[3:07:49] CristianinhoTV: Até quero ver se vai mm dormir
+[3:07:50] kravabalas: mesmo
+[3:07:56] pt_azul: Se tem escola tivesse fechado os olhos as 22
+[3:07:57] shiney_08: @rammstein_life exato xD
+[3:07:58] bonehunteri: pk se acha o mestre da fuga e achava que fugia facil
+[3:08:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:08:01] elv1ruz: Ele agiu agora tem que levar com as consequencias, é a bida
+[3:08:05] salgr0ss00: A desculpa da escolinha já começa a ser muito batida.
+[3:08:21] OBSCUROj_: Aposto que o miúdo já apanhou com o cinto LUL
+[3:08:24] kikao_12: a PJ tá on fire
+[3:08:28] chapaxfn: ele fugiu porque tinha a arma na mão xd
+[3:08:32] kravabalas: putos xD mas com a idade eles vao aprendendo cesar
+[3:08:44] KunangaJR_tv: ele tirou a casaco hahah
+[3:08:51] ohomemdobanpermanente: amanhã vai pra escola com o simbolo das havaianas da mãe no pescoço!! LUL LUL LUL
+[3:08:59] kravabalas: xD
+[3:09:00] Ace_GMR: Boas César, boas chat
+[3:09:01] rammstein_life: ahahaahha
+[3:09:06] OBSCUROj_: KEKW
+[3:09:07] elv1ruz: kkkkkkkkkk
+[3:09:10] santo_tirso: LUL
+[3:09:13] kravabalas: teso
+[3:09:15] rammstein_life: elen musk ja tem o chip telapatia
+[3:09:17] s1mple341: É o c
+[3:09:18] shiney_08: F xD
+[3:09:24] OBSCUROj_: Ahahaha
+[3:09:33] peixinho_s2_ktm: é ladrao
+[3:09:35] the_vulture1: nunca ouviste dizer "que deus te pague?" ele levou isso literalmente, deus pagou a multa Kappa
+[3:09:36] Ozzy_zy: spots? então é spotado :D
+[3:09:38] OBSCUROj_: "falta de respeito" quando anda nas drogas e é apanhado LUL
+[3:09:43] elv1ruz: a pj adora os trafukas Kappa
+[3:09:44] WizeBot: 【 528 viewers (+17) ⏰ 3h 9m 50s 】
+[3:09:55] kravabalas: teka teka teka
+[3:10:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:10:04] the_vulture1: firma fraca gg
+[3:10:06] salgr0ss00: Ele ficou ofendido por o teres chamado drogado no RP? Queria ver na realidade ele dentro de um posto se piava assim 😂 até se mijava todo
+[3:10:19] rammstein_life: elen musk este ja tem o chip telapatia LUL
+[3:10:27] rodi_olz: é a idade pa
+[3:10:28] Joao99c: falou demais treta demais agora aguenta que dói menos
+[3:10:31] OBSCUROj_: LUL
+[3:10:37] elv1ruz: cesarv3OhDiabo cesarv3OhDiabo
+[3:10:39] santo_tirso: LUL
+[3:10:42] tomas_fole11: hahaha
+[3:10:42] RicksS47: kkkkkkkkkkkkkkk
+[3:10:46] elv1ruz: KKKKKKKKK
+[3:10:47] the_vulture1: eia bem
+[3:10:49] nuno_miguel_23: LUL LUL LUL LUL LUL
+[3:10:49] migashd: payshops a impor respeito LUL
+[3:10:49] el_nata23: O hiroku a achar se mau LUL LUL
+[3:10:50] mdk_reis: ahahahahaha
+[3:10:51] PatriciaNTS: LUL LUL
+[3:10:51] kravabalas: bem esta vem para errebentar hahahah
+[3:10:51] salgr0ss00: Ahahahaha 😂
+[3:10:52] fellixktm: LUL LUL LUL LUL LUL LUL LUL
+[3:10:54] David2000jose: Ahahhaha
+[3:10:55] camila_oliveira99: hahahahahahhha
+[3:10:56] RaulCigano013: ahahahahahah
+[3:10:56] OBSCUROj_: W  voice pitcher ahahah
+[3:10:57] guilhermept29: hahahah
+[3:10:57] CristianinhoTV: Ganda pj hahahaha
+[3:10:58] tozegamer2020: LUL LUL LUL LUL LUL LUL LUL LUL
+[3:10:58] nsghost: LUL LUL LUL LUL
+[3:10:58] GodSerrasPT: jasuss
+[3:10:58] Ozzy_zy: p para cima p para baixo p por todo o lado
+[3:10:58] RaulCigano013: que rei
+[3:10:59] David2000jose: LUL LUL LUL SeemsGood SeemsGood NotLikeThis
+[3:10:59] RicksS47: chega lhe lumeeeeeeeeeeeeeeeee
+[3:11:00] labf14: cesarv3OhDiabo cesarv3OhDiabo cesarv3OhDiabo cesarv3OhDiabo
+[3:11:01] weedzinho: KEKW
+[3:11:02] leo1997pt: LUL LUL LUL LUL LUL
+[3:11:06] elv1ruz: payshop na casa kkkkkkkkk
+[3:11:08] Ace_GMR: Kkkk
+[3:11:09] mdk_reis: LUL LUL
+[3:11:10] santo_tirso: "tamos :( "
+[3:11:10] leo1997pt: cesarv3Aver cesarv3Aver cesarv3Aver cesarv3Aver cesarv3Aver
+[3:11:13] tozegamer2020: há valente fonix KKKKK
+[3:11:16] santo_tirso: o menininho AHAHAHA
+[3:11:17] Joao99c: vai tudo a eito
+[3:11:18] weedzinho: hiro ganda reii
+[3:11:19] CristianinhoTV: Ganda pj HAHAHAH
+[3:11:20] kravabalas: ka perigoso
+[3:11:21] Ozzy_zy: é put para tudo :D
+[3:11:21] rodi_olz: que javardice hahahah
+[3:11:23] Killer__TV: os pjs tb sao os maiores da rua deles hahah
+[3:11:25] alexpn23: isso tem muito ar de ser o hiroku
+[3:11:27] santo_tirso: 30 KAPA
+[3:11:28] rammstein_life: LUL LUL LUL LUL
+[3:11:45] salgr0ss00: Esse pj só está a passar para ingame o que se passa na realidade
+[3:11:46] elv1ruz: pimbas
+[3:11:48] andrecoelho17: Agr pia baixo hahah
+[3:11:50] kravabalas: este e lixado
+[3:11:55] tozegamer2020: grande inspetor
+[3:11:58] elv1ruz: cesarv3PIMBA
+[3:12:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:12:03] fabiomicaelvb: sorris1Oqie sorris1Oqie sorris1Oqie sorris1Oqie
+[3:12:09] CristianinhoTV: Curti do pj hahah
+[3:12:17] santo_tirso: @Killer__TV eles têm que ser assim, por isso é que ninguém sabe quem eles são
+[3:12:18] pedrocasjesu5: cesarv3Chora
+[3:12:23] rammstein_life: NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis LUL LUL LUL LUL LUL
+[3:12:24] rodi_olz: quanto tempo?
+[3:12:44] PatriciaNTS: tem que ser assim, que a malta não aprende
+[3:12:45] nsghost: a pj da medo com essa voz hahaha
+[3:12:47] nadiasofia_26: LUL LUL LUL LUL
+[3:12:57] kravabalas: ele se cagou de certesa
+[3:13:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[3:13:05] retoxxz: @nsghost a usar voice mod
+[3:13:27] TNMiranda11: a pj ate insultou a gnr
+[3:13:28] TNMiranda11: xd
+[3:13:50] kravabalas: cesar faz um assalto xD
+[3:14:54] diogo_rocha__: Aquele abraço sempre fortíssimo cá de Braga, César
+[3:14:56] the_vulture1: resumo, mais do mesmo?
+[3:15:34] kravabalas: BibleThump
+[3:15:42] Ozzy_zy: abre o capot, liga os 4 piscas e espera
+[3:15:58] elv1ruz: cesarv3Jordao cesarv3Jordao cesarv3Jordao
+[3:16:02] kravabalas: wtf
+[3:16:04] Ozzy_zy: MaxLOL MaxLOL
+[3:16:06] santo_tirso: Kappa
+[3:16:07] elv1ruz: :|
+[3:16:22] faria55: que cromo... lol
+[3:16:23] PatriciaNTS: menos um LUL
+[3:16:25] Ozzy_zy: enganou-se na cidade :D
+[3:16:25] the_vulture1: gg
+[3:16:25] camila_oliveira99: gg
+[3:16:26] telmo_almeida: KEKW
+[3:16:28] nsghost: gg
+[3:16:28] CristianinhoTV: GG HAHAHA
+[3:16:29] salgr0ss00: Rip
+[3:16:30] NycFri: LUL
+[3:16:32] Filipe04gg: gg
+[3:16:33] Alex2mix: Gg
+[3:16:33] oliveirinha35: Gg
+[3:16:33] nuno_miguel_23: GG
+[3:16:34] alentejano123: gg
+[3:16:34] c3r3l4cpt69: gg easy xD
+[3:16:34] the_vulture1: esse levou 200
+[3:16:34] figueyredo_: gg
+[3:16:37] elv1ruz: "juro que nao e" KKKKKKKK
+[3:16:38] the_vulture1: ui
+[3:16:39] telmo_almeida: gigi
+[3:16:39] TNMiranda11: esse jordão tinha aberto report
+[3:16:41] rammstein_life: juro esta malta tem papa no cerebro
+[3:16:42] rodi_olz: que falta de noção
+[3:16:44] camila_oliveira99: gg xD
+[3:16:44] leo1997pt: cesarv3Nofear cesarv3Bann cesarv3Nofear cesarv3Bann cesarv3Nofear cesarv3Bann cesarv3Nofear cesarv3Bann cesarv3Nofear cesarv3Bann cesarv3Nofear cesarv3Bann
+[3:16:45] infonoobs: ele podia estar a dizer isso pk, os outros estavam a ser chatos
+[3:16:48] PatriciaNTS: a cena é que muitos deles só vem gozar
+[3:16:49] figueyredo_: 200 full box
+[3:16:51] shiney_08: porra, tenho 2 BR's que jogam ai meus amigos e nao sao assim xD
+[3:16:52] infonoobs: podias ter dito
+[3:16:58] kravabalas: RESPEITO E BONITO
+[3:17:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:17:13] infonoobs: vai preso
+[3:17:17] Ozzy_zy: eu não estava a referir-me á nacionalidade :D
+[3:17:19] kravabalas: desculp lerta grande
+[3:17:19] infonoobs: rp
+[3:17:23] TNMiranda11: mas ele tinha aberto report
+[3:17:25] TNMiranda11: esse gajo
+[3:17:27] rammstein_life: NotLikeThis NotLikeThis NotLikeThis
+[3:17:33] santo_tirso: jail
+[3:17:34] capi_ktm: no outro dia eram 6 juntos ahahaha
+[3:17:39] shiney_08: @TNMiranda11 n era esse
+[3:17:40] CristianinhoTV: O gajo fez tudo menos rp
+[3:17:43] PatriciaNTS: se os policias fossem assim na vida real andava tudo na linha
+[3:17:48] shiney_08: o que abriu era 2117 acho
+[3:18:05] shiney_08: 2133 é o kut
+[3:18:07] infonoobs: ai
+[3:18:09] telmo_almeida: KEKW
+[3:18:09] elv1ruz: cesarv3Tou
+[3:18:11] davijohn13: ahahhahhaha
+[3:18:12] infonoobs: LUL LUL LUL LUL
+[3:18:14] shiney_08: ele baniu o 2160
+[3:18:18] Ozzy_zy: aiiiiiiiiiii :D
+[3:18:19] infonoobs: ca puta de estouro moço
+[3:18:23] infonoobs: kakkak
+[3:18:24] nuno_miguel_23: At3 saltas te cesar ahahaah
+[3:18:25] santo_tirso: AHAHAHA
+[3:18:28] stanacasa1906: ele bateu te no carro cagas te todo
+[3:18:35] davijohn13: LUL LUL LUL LUL LUL LUL LUL
+[3:18:48] tiagovittorio: Mesquita não sabe conduzir LUL
+[3:18:48] camila_oliveira99: ate saltas
+[3:18:54] nuno_miguel_23: LUL LUL LUL LUL
+[3:19:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[3:19:06] infonoobs: venha
+[3:19:08] infonoobs: venha...
+[3:19:15] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[3:19:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[3:20:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:20:33] NycFri: dispensou alguma coisa no chao meio suspeito
+[3:20:34] eskapa_: Olha que tas a falar no verde
+[3:20:52] CristianinhoTV: Eles pediram 3 viaturas a mais pelo menos
+[3:21:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[3:21:05] alexpn23: é legit ir a todos os assaltos com os mesmos carros?
+[3:22:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:22:16] nuno_miguel_23: LUL
+[3:22:16] TNMiranda11: que pena
+[3:22:17] twitchisbad90: LUL FallWinning
+[3:22:18] Ozzy_zy: LUL
+[3:22:28] rodi_olz: gg
+[3:22:33] CristianinhoTV: !solverde
+[3:22:33] Streamlabs:  Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[3:22:35] kravabalas: es umbakano cesar
+[3:22:41] rammstein_life: diga
+[3:22:46] infonoobs: pinto
+[3:22:47] santo_tirso: nice try
+[3:22:51] twitchisbad90: Tá tudo a dormir ou que? 514 pessoas e ninguém escreve Kappa
+[3:22:52] Cesarvsc: !prozis
+[3:22:53] Streamlabs:  Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:23:05] infonoobs: LUL LUL LUL
+[3:23:09] Ozzy_zy: é o mes que os gatos mijam menos
+[3:23:11] kravabalas: levantar pneus eu
+[3:23:18] TNMiranda11: e em janeiro ze to
+[3:23:21] Yr0kumata: mas nao oferecam as vossas damas hahhah
+[3:23:23] Cesarvsc: https://sol-ver.de/3LNEJFn
+[3:23:23] Cesarvsc: https://sol-ver.de/3LNEJFn
+[3:23:23] CristianinhoTV: NO tá a ir o !solverde
+[3:23:28] offerman07: Kappa Kappa
+[3:23:32] acathg: olaaaaaaaaa!!! kyedaeLove kyedaeLove kyedaeLove
+[3:23:35] Cesarvsc: https://sol-ver.de/3LNEJFn
+[3:23:39] elv1ruz: LUL
+[3:23:48] CristianinhoTV: @cesarvsc o da Prozis não mandou link
+[3:24:17] Ace_GMR: Fix
+[3:24:19] Ozzy_zy: tb é o mes que eu e o meu irmão ficamos mais perto da reforma :(
+[3:24:31] nuno_miguel_23: Prega um tiro msm
+[3:24:33] infonoobs: olha a fato
+[3:24:38] alentejano123: a x6 nao deita lume
+[3:24:42] tiagovittorio: Ta roto
+[3:24:53] santo_tirso: ahahaha
+[3:25:00] santo_tirso: falta o isqueiro
+[3:25:00] iVoLaX_: juro que hoje não ha gatinho
+[3:25:02] rammstein_life: vais voar com o carro assim ahaha
+[3:25:06] CristianinhoTV: @cesarvsc o comando !Prozis não mandou link nenhum no chat
+[3:25:09] iVoLaX_: gatinho ta a dormir
+[3:25:16] iVoLaX_: quase
+[3:25:25] spartan2895: !prozis
+[3:25:25] Streamlabs:  Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:25:42] CristianinhoTV: @spartan2895 não dá
+[3:25:49] nesquik1401: Não está ninguém atender report hoje?
+[3:25:57] iVoLaX_: boa live e bom rp
+[3:26:23] spartan2895: @cristianinhotv como assim não dá??
+[3:26:24] CristianinhoTV: @cesarvsc os comandos de ! Não funcionam
+[3:26:38] CristianinhoTV: Não era pra aparecer um link??
+[3:26:47] iaraf03: @CristianinhoTV www.prozis.com/6vWD
+[3:26:52] spartan2895: e aparece
+[3:26:52] spartan2895: !prozis
+[3:26:52] Streamlabs:  Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:26:57] spartan2895: fds
+[3:27:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:27:13] TNMiranda11: @spartan2895 a mim nao me aparece tambem
+[3:27:13] CristianinhoTV: Atão tou bugado desculpem pessoal pra mim não aparece
+[3:27:29] TNMiranda11: @CristianinhoTV para mim tambem nao
+[3:27:37] Ozzy_zy: LUL LUL
+[3:27:42] elv1ruz: LUL LUL
+[3:27:53] Ozzy_zy: virado ao contrario é um vaso para flores
+[3:28:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:28:15] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[3:28:20] kravabalas: jordao
+[3:28:43] CristianinhoTV: @tnmiranda11 deve ser bug nosso reinicia a twitch
+[3:28:48] migashd: coitado do diga diga
+[3:29:08] kravabalas: hahhaha grnda grisa
+[3:29:26] felisberrtooo: cesarv3Jordao
+[3:29:31] TNMiranda11: @CristianinhoTV mas ja te esta a funcionar?
+[3:29:34] spartan2895: @cristianinhotv não te aparece a mensagaem a dizer: “queres beber…?”
+[3:29:45] elv1ruz: cesarv3OhDiabo
+[3:29:47] kravabalas: hahahah granda tiro
+[3:29:50] TNMiranda11: !prozis
+[3:29:51] Streamlabs:  Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:29:57] CristianinhoTV: @spartan2895 quando das o comando não
+[3:30:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:30:05] duarte_rangel_10: 2 dias e abuso
+[3:30:17] WizeBot: 👤 New FOLLOW(S) ❤ darkzinho_xit23 ❤, WELCOME! (134634 followers) (+19).
+[3:30:24] joellpinto: 2038
+[3:30:26] Guizzz28: fofinho
+[3:30:32] vbastosbsk: abuso é ir roubar os mais novos lol
+[3:30:35] rodi_olz: abuso?
+[3:30:36] iaraf03: @duarte_rangel_10 cesarv3Tou
+[3:30:49] mamadu_pt: Até amanhã rimacaBoanoite
+[3:30:54] WizeBot: 【 485 viewers (-43) ⏰ 3h 31m 】
+[3:30:55] Guizzz28: diz lhe que depois de criar o boneco e pa ir dormir
+[3:31:07] zepintooo: tem mais que eu
+[3:31:11] zepintooo: e ja escrevi as regras ahaa
+[3:31:14] elv1ruz: fds
+[3:31:15] kravabalas: poooorrrrrrrra
+[3:31:16] CristianinhoTV: @spartan2895 podes mandar só mais uma vez pra ver se consegui resolver?
+[3:31:21] elv1ruz: bela coleçao de carimbos
+[3:31:21] PatriciaNTS: foi bem dado
+[3:31:22] Ozzy_zy: tem uma coisa que se chama reincidência
+[3:31:22] rammstein_life: ainda dizem que é abuso
+[3:31:26] iaraf03: !prozis
+[3:31:26] Streamlabs:  Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:31:31] kravabalas: meu deus
+[3:31:33] TNMiranda11: @duarte_rangel_10 da para ver que é um miudinho e acabou de entrar e nao faz sentido estares a roubar pessoal novo que nem personagem tem
+[3:31:49] faria55: amigo... entao 2 dias e pouco...
+[3:31:53] ohomemdobanpermanente: eu fui perma logo à primeira...e nem fiz nada LUL LUL LUL
+[3:31:57] kravabalas: isso e gosar
+[3:32:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:32:03] elv1ruz: bem razoavel assim
+[3:32:04] vbastosbsk: nao ser perma é uma sorte
+[3:32:05] guigoncalves1904: César 2 dias foi pouco
+[3:32:08] zepintooo: acho que n vai ser so  dias
+[3:32:09] guigoncalves1904: Isso era perma
+[3:32:10] zepintooo: 2
+[3:32:14] CristianinhoTV: @iaraf03 não me aparece nada não , deve ser problema meu
+[3:32:17] TNMiranda11: @ohomemdobanpermanente cada um tem o que merece LUL LUL LUL
+[3:32:18] zepintooo: gg
+[3:32:19] TonyStarkXK9: 2 dias foi pouco 😂😂😂
+[3:32:26] salgr0ss00: Esse coleciona bans e não rps 😂
+[3:32:28] elv1ruz: tchiiiii
+[3:32:35] iaraf03: @CristianinhoTV posso te mandar por sussurro se quiseres
+[3:32:42] elv1ruz: ✏️ ✏️ ✏️
+[3:32:45] stanacasa1906: realmente é um abuso .. 2 dias? nunca mais metia era os pes na cidade
+[3:32:46] infonoobs: isso ja gosto , escrever as regras XD
+[3:32:52] ohomemdobanpermanente: @TNMiranda11 o pior é q nem isso posso dizer LUL LUL LUL
+[3:33:02] CristianinhoTV: @iaraf03 era mais pra dizer q n tava a funcionar o comando mm
+[3:33:02] kravabalas: este server e o mais rp de portugal , parabens portugalia
+[3:33:06] MaGmeisterR: HeyGuys
+[3:33:10] rammstein_life: o que se passou mais?
+[3:33:11] Gato_Das_Botas: mais um a treinar caligrafia
+[3:33:12] iaraf03: @CristianinhoTV ah, mas ta ahahahah
+[3:33:22] leo1997pt: 2 dias foi abuso cesarv3Aver cesarv3Nofear
+[3:33:38] CristianinhoTV: @iaraf03 okok obg
+[3:34:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[3:34:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[3:34:28] ohomemdobanpermanente: queres uma sugestao para um nick para ti @Cesarvsc ?
+[3:34:38] capi_ktm: AHAHHAAHAHAHA
+[3:34:44] CristianinhoTV: 740 pessoas na carrinha hahahahaha
+[3:34:49] ohomemdobanpermanente: que tal "ohomemquebanepermanente"? LUL LUL LUL
+[3:35:17] Bleftin: olha a chamada 112 Kappa
+[3:35:20] labf14: LUL LUL
+[3:35:26] v_zip_v: Olá boa noite  zeto !!! Como a k é  está  tudo ????
+[3:35:27] Bleftin: O deputado está em braza
+[3:35:31] CristianinhoTV: Eia bem q Nick mais comprido
+[3:35:44] santo_tirso: @Bleftin HAHAHAH
+[3:35:52] santo_tirso: chamada 112
+[3:36:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[3:36:31] Bleftin: ninguém quer saber das novidades do Deputado Daniel Martins??
+[3:36:52] santo_tirso: Eu queria @Bleftin
+[3:37:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:37:08] teixeiraa132: não é melhor ires trocar de viatura
+[3:37:16] Bleftin: @santiiirs só nos…
+[3:37:17] santo_tirso: Devem ser novidades exóticas
+[3:37:19] v_zip_v: Está tudo zeto obrigado  ! Boa noite a todo o chat também grande abraço a todos
+[3:37:31] santo_tirso: @Bleftin mesmo
+[3:37:44] Bleftin: @santiiirs tão exóticas q ninguém quer saber Kappa
+[3:37:57] santo_tirso: @v_zip_v Bom descanço, amigo!
+[3:38:06] nuno_miguel_23: !GNR
+[3:38:06] Streamlabs: Hierarquia GNR: - Diretor Nacional - Diretor Nacional Adjunto - Comandante Geral - Tenente General - Brigadeiro General - Coronel - Major - Capitão -Alferes - 1º Sargento - 2º Sargento - Furriel - Cabo - Guarda Principal - Guarda - Guarda Provisório
+[3:38:12] raulmarcelo03: vai de m8
+[3:38:14] santo_tirso: ZETO de M5?
+[3:38:19] rimaca94: 83 raiders from rimaca94 have joined! 
+[3:38:20] Streamlabs: rimaca94 just raided the channel with 83 viewers!
+[3:38:27] rimaca94: <3
+[3:38:53] felisberrtooo: @rimaca94 <3 cesarv3IMACULADA
+[3:39:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[3:39:01] racc31792: racc31792 subscribed at Tier 1. They've subscribed for 15 months, currently on a 15 month streak! 
+[3:39:01] Streamlabs: racc31792 just subscribed with Tier 1!
+[3:39:02] WizeBot: ⭐️ RE-SUB ⭐️ racc31792 (+1) ⭐️
+[3:39:11] santo_tirso: Ola @rimaca94
+[3:39:13] santo_tirso: Como correu essa stream?
+[3:39:23] rimaca94: Sempre bem ;)
+[3:39:35] tozegamer2020: nao aparece as notificações na live
+[3:39:38] rodi_olz: a X6 parece andar mais
+[3:40:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:40:04] racc31792: Correu bem, brutal, já cheguei ontem, vi as tuas lives quase todos os dias 😉
+[3:40:22] tozegamer2020: @Cesarvsc  nao aparece as notificações na live
+[3:40:28] jotasilva21: !so @rimaca94
+[3:40:28] Streamlabs: Check out rimaca94 over at https://www.twitch.tv/rimaca94 , they are playing Grand Theft Auto V!
+[3:40:31] liko2xz: liko2xz subscribed at Tier 1. They've subscribed for 8 months! mais um mesinho mano, eu sou mesmo jordao, estou sempre a morrer na agua, nao sei nadar, ja estou estendido outra vez
+[3:40:31] Streamlabs: liko2xz just subscribed with Tier 1!
+[3:40:31] WizeBot: ⭐️ RE-SUB ⭐️ liko2xz (+2) ⭐️
+[3:41:08] liko2xz: shift S só?
+[3:41:16] santo_tirso: começar a nadar é complicado
+[3:41:24] liko2xz: tenho mais dois jordoes a tentar me carregar mas nao conseguem LUL LUL LUL
+[3:41:40] sapalhos: tt
+[3:41:47] windowsxp1982: Bom pessoal - Fiquem bem - Grande abraço e até logo :)
+[3:41:47] santo_tirso: @liko2xz LUL
+[3:41:53] iaraf03: @jotasilva21 n está a funcionar, agora usamos o shoutout
+[3:42:00] liko2xz: ok daqui a 15 minutos jha vou tentar outra vez cesarv3BAMOS cesarv3BAMOS cesarv3BAMOS
+[3:42:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:42:04] CristianinhoTV: Botar o Jordão a baixo hahaha
+[3:42:08] iaraf03: @windowsxp1982 Bom descanso <3
+[3:42:14] periquitak: @windowsxp1982 bom descanso <33 beijinhos
+[3:42:22] 2jz_rodrigo: cesar , em rp posso usar a tua camisola?
+[3:42:22] rammstein_life: @windowsxp1982 xauuu cesarv3IMACULADA cesarv3IMACULADA
+[3:42:24] labf14: @windowsxp1982 bom descanso cesarv3IMACULADA
+[3:42:33] santo_tirso: @windowsxp1982 Bom descanço!
+[3:42:35] Ozzy_zy: ;D
+[3:43:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[3:43:34] telmo_almeida: ahhahaahah
+[3:43:37] kravabalas: xD
+[3:43:37] zepintooo: 200
+[3:43:39] liko2xz: cesarv3Jordao  já me conseguiram carregar
+[3:43:44] capi_ktm: que é isto HAHAHAHAAH
+[3:43:44] TNMiranda11: que gajos burros
+[3:43:48] telmo_almeida: ca borros ahahah
+[3:44:00] rammstein_life: NotLikeThis NotLikeThis NotLikeThis
+[3:44:05] twitch_paulin2: meu deus
+[3:44:07] CristianinhoTV: Q reis hahahahha mm debaixo do heli  hahahah
+[3:44:20] Ozzy_zy: MaxLOL MaxLOL MaxLOL
+[3:44:22] racc31792: Não estou chateado contigo, estou em greve, não quero desestabilizar o chat cesarv3Humilde
+[3:44:23] twitch_paulin2: ahahah fds
+[3:44:26] santo_tirso: CARAÇAS
+[3:44:28] Ozzy_zy: era bowling?
+[3:44:29] oficial_sarahg: oficial_sarahg subscribed at Tier 1. They've subscribed for 21 months! hey heyyy, como está o menino? <3
+[3:44:30] Streamlabs: oficial_sarahg just subscribed with Tier 1!
+[3:44:30] WizeBot: ⭐️ RE-SUB ⭐️ oficial_sarahg (+3) ⭐️
+[3:44:39] TNMiranda11: esses assaltantes são mesmo burros
+[3:45:02] kravabalas: pescador?
+[3:45:17] CristianinhoTV: A ter um assalto com um heli e eles a assaltar hahaha q cromos hahaha
+[3:45:17] labf14: https://clips.twitch.tv/ResilientSplendidMonkeyWOOP-Xb-vpv8fF834JCA3
+[3:45:22] 2jz_rodrigo: cesar , posso usar a tua camisola em rp?
+[3:45:37] iaraf03: @racc31792 gostaste do hotel?
+[3:45:40] liko2xz: ja estou no hospital , ate ja REI @Cesarvsc , ja vou tentar o shift S e ja ca volto mais 15 minutos
+[3:45:45] santo_tirso: @labf14 LUL
+[3:46:26] WizeBot: 👤 New FOLLOW(S) ❤ adpm01 ❤, WELCOME! (134633 followers) (+20).
+[3:46:31] racc31792: Estou
+[3:46:51] oficial_sarahg: sim e tuu? tenho estado sempre deste lado ahah mas caladinha
+[3:47:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:47:01] iaraf03: Bem vindo @racc31792 <3
+[3:47:14] racc31792: @iaraf03 epa o meu hotel era top
+[3:47:16] liko2xz: cesarv3Jordao  queres mais uma de jordao minha?, comprei uma X6 que era procurada fodi-me logo 20 minutos na esquadra para resolver a cena :DDD mas foi ganda RP
+[3:47:22] raulmarcelo03: o Maserati passou agora amarelo
+[3:47:31] iaraf03: @racc31792 ficaste em qual?
+[3:47:39] racc31792: @iaraf03 também larguem bem
+[3:47:40] liko2xz: sou mesmo jordão
+[3:47:40] arnardofritz: Eae @cesarvsc
+[3:47:43] kravabalas: boina vermelha
+[3:47:54] racc31792: @cesarvsc nem ao Algarve tu vens quanto mais!
+[3:47:56] infonoobs: sempre me cheirou.....
+[3:48:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[3:48:01] arnardofritz: Sim sim já consegui o pc
+[3:48:04] felisberrtooo: @racc31792 espera tu és algarve ?
+[3:48:11] infonoobs: nunca me enganaste LUL LUL LUL
+[3:48:17] iaraf03: neste momento fica te a 1500€ por pessoa @Cesarvsc
+[3:48:19] pinguimog: Espero que eles fujam como o pinguim
+[3:48:21] infonoobs: akakkaka
+[3:48:22] arnardofritz: Tbm ta convidado para vim no. Brasil
+[3:48:27] infonoobs: LUL LUL
+[3:48:31] infonoobs: é bem
+[3:48:54] Streamlabs: rolexxxmr just tipped €1.00!
+[3:49:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[3:49:00] kravabalas: boina vermelha tiro snipeeer kkkk
+[3:49:09] racc31792: Eu fui á vontade, larguei quase 9000€ ao todo, voo hotel(all inclusive), excursões, discotecas, almoços e jantares(fora) do hotel
+[3:49:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[3:49:21] TNMiranda11: estas sem as notificações na live
+[3:49:22] racc31792: @felisberrtooo sim
+[3:49:30] felisberrtooo: @racc31792 Qual zonas ? Sou Loulé
+[3:49:31] felisberrtooo: <3
+[3:49:45] racc31792: @felisberrtooo sou de quarteira vivo em Boliqueime
+[3:49:53] racc31792: @cesarvsc sim 2 pessoas
+[3:49:59] rolexxxmr: 💨❤️❤️
+[3:50:02] tozegamer2020: @Cesarvsc pois é que as notificações nao aparece na live, nao deve estar ativado
+[3:50:02] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[3:50:03] felisberrtooo: @racc31792 Xeee boliqueime , mas quarteira é foda, lindo
+[3:50:07] TNMiranda11: eu acho que o @racc31792 não se apercebeu da sua promoção
+[3:50:09] spartan2895: 9000? pagaste ao cartel???
+[3:50:25] racc31792: @cesarvsc também tenho muito para gastar, carro e filho que há de vir
+[3:50:28] rammstein_life: LUL LUL LUL LUL LUL LUL
+[3:50:28] iaraf03: @racc31792 Ficaste em que hotel?
+[3:50:30] scoelhos: boa noite a todos
+[3:50:35] santo_tirso: ELA 43K, qual é o carro? Não me digas que é uma X6
+[3:50:43] Ozzy_zy: LUL LUL LUL LUL
+[3:50:44] nuno_miguel_23: LUL LUL LUL LUL
+[3:50:47] rodi_olz: nao acompanha
+[3:50:55] WizeBot: 【 584 viewers (+99) ⏰ 3h 51m 1s 】
+[3:51:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[3:51:02] santo_tirso: vai tirar outro carro
+[3:51:03] davidrocha_234: 500 mil agora
+[3:51:07] racc31792: @iaraf03 yucatan princess platinum
+[3:51:09] champagnejp92: vai haver fight na meta
+[3:51:13] tozegamer2020: LUL LUL LUL LUL LUL LUL LUL  sucata velha
+[3:51:30] racc31792: @felisberrtooo não queres ter aqui um discussão entre Loulé e Quarteira pois não?!
+[3:51:32] nuno_miguel_23: Bro olha uma luz do carro na estrada
+[3:51:39] santo_tirso: AHAHAHA
+[3:51:40] chapaxfn: qual é o carro que vais comprar?
+[3:51:42] iaraf03: @racc31792 ficaste na zona deluxe ou na zona platinum ?
+[3:51:44] santo_tirso: parece um mini
+[3:51:44] Ace_GMR: Acho que alguém precisa renovar a carta
+[3:51:46] racc31792: @cesarvsc és Jordão a conduzir e a culpa é minha
+[3:51:51] champagnejp92: é para caso fosses dar spec
+[3:51:52] kravabalas: daytona
+[3:51:59] racc31792: @iaraf03 platinium
+[3:52:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:52:04] rammstein_life: @racc31792 outra  discussão destas hj?
+[3:52:05] tozegamer2020: traseira toda empenada KKKKKKKK
+[3:52:12] felisberrtooo: @racc31792 LUL gosto ambos
+[3:52:18] the_vulture1: "um breve jajão"
+[3:52:21] rammstein_life: ja n chega norte e lisboa?
+[3:52:22] iaraf03: @racc31792 largaste mesmo bem ent... Chegaste a ir ao Restaurante italiano lá ?
+[3:52:24] chapaxfn: qual é o carro que vais comprar?
+[3:52:25] racc31792: @rammstein_life é para bazar?€
+[3:52:49] rammstein_life: @racc31792 ?
+[3:52:50] Joao99c: @champagnejp92 O César normalmente não vê as fights por causa que podem dar snipe
+[3:52:53] 351guii: o teddy hoje vai gozar com os Jordoes? Kappa
+[3:53:03] racc31792: @iaraf03 sim!! comi dois rissotos de frutos do mar 😂😂😂 e metade da piza de lagosta da minha mulher
+[3:53:33] racc31792: @rammstein_life brincadeira
+[3:53:37] kravabalas: isso quer uma repro avemos papa
+[3:53:47] iaraf03: @racc31792 eia tava mesmo bom, tbm comi. E foste ao asiático? a brincadeira que os gajos fazem é fixe
+[3:53:54] PedroSousa78: chuguei a 100 mil pontos crlhh siga hhahah
+[3:54:00] afonsocsantos: Vais comprar que carro?
+[3:54:01] PedroSousa78: cheguei*
+[3:54:03] racc31792: @cesarvsc obrigado pelo mod, sou um Jordão, que assiste no telemóvel não tinha entendido!!
+[3:54:07] kravabalas: avbemos papa moreee
+[3:54:09] Joao99c: uiii 403km 👍👍
+[3:54:19] rammstein_life: @racc31792 tava a ver estava a falar da conversa produtiva que ouvi ai a tarde tava a ver se tinha tido algo hahaha
+[3:54:38] rammstein_life: houve*
+[3:54:42] scoelhos: parabéns pela promoção @racc31792
+[3:54:55] spartan2895: é só ricos neste chat… cá eu vou a foz do Arelho e porque tenho um quartinho lá perto
+[3:54:57] racc31792: @cesarvsc um orgulho ter no meu “currículo” ser teu mod!!!
+[3:55:14] spartan2895: @racc31792 eu pus no meu…
+[3:55:14] racc31792: @spartan2895 estudasses!!
+[3:55:23] kravabalas: um tiro n cu
+[3:55:31] kravabalas: cu
+[3:55:36] telmo_almeida: KEKW
+[3:55:36] Ozzy_zy: MaxLOL MaxLOL
+[3:56:01] kravabalas: BibleThump BibleThump
+[3:56:08] racc31792: @spartan2895 puseste no “currículo” ?!
+[3:56:38] spartan2895: @racc31792 pus Kappa
+[3:56:50] rammstein_life: o meu corriculo tem quase 3 paginas so de congrssos e isso ahaha
+[3:57:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[3:57:33] racc31792: @iaraf03 apanhei 4 dias dos 10 a chover, não dava para ir jantar, tempestade mesmo, tive de fazer escolhas, e asiático ficou de fora para uma próxima!
+[3:58:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[3:58:07] felisberrtooo: n
+[3:58:10] felisberrtooo: berne
+[3:58:18] teixeiraa132: penúltimo
+[3:58:28] felisberrtooo: antes de ultimo
+[3:58:29] racc31792: @spartan2895 nunca fui mod, e nunca fiz sequer o meu currículo😂😂😂
+[3:59:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[3:59:41] racc31792: @felisberrtooo isso não acontece, ninguém gosta dos dois sítios! 😂😂
+[4:00:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[4:00:09] spartan2895: @racc31792 estou a gozar… se ganhasse alguma coisa por ser mod podia ir para o México d eferias
+[4:00:51] carlosmfm3: a x6 não era PJ?
+[4:01:01] felisberrtooo: @racc31792 LUL , é normal
+[4:01:32] Ace_GMR: Isso é uma x6 ou um aviao
+[4:02:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:02:28] racc31792: @spartan2895 fonix pensava que o @cesarvsc pagava, já tava a pensar no próximo ano ir um mês para o Dubai só que este guito cesarv3Kappa
+[4:02:50] rammstein_life: NotLikeThis NotLikeThis NotLikeThis NotLikeThis
+[4:02:56] Ace_GMR: Troca para x6
+[4:03:08] sapalhos: tava a esquerda
+[4:03:10] felisberrtooo: Eu disse tava certo
+[4:03:14] felisberrtooo: Berne
+[4:03:29] iaraf03: @racc31792 o que achaste da praia do hotel? Kappa
+[4:04:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[4:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[4:04:34] spartan2895: isto é ver quem relata mais rápido???
+[4:04:51] racc31792: @iaraf03 a praia do platinium propriamente dita não é fixe, tem muitas pedras, mas 50 metros para a direita, a praia do Deluxe é top!
+[4:05:21] racc31792: @iaraf03 e pude usufruir de tudo nessa praia também
+[4:05:43] iaraf03: @racc31792 eu n usufrui da praia, na altura que fui havia sargaço :(
+[4:06:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[4:06:01] spartan2895: sargaço faz bem a pele
+[4:06:20] racc31792: @iaraf03 apanhei chuva!! 4 dias! mas apanhei ZERO sargaço!
+[4:06:25] iaraf03: @spartan2895 faz faz, é um cheirinho
+[4:06:28] zepintooo: 1k
+[4:06:34] Vongod77: gg
+[4:06:35] Vongod77: kk
+[4:06:39] Morceguito15: ahahahahah outra vez arroz ahahahah
+[4:06:44] infonoobs: oooooo
+[4:06:47] infonoobs: óóóóóó
+[4:06:48] didiggtt: @zepintooo ola
+[4:06:50] zepintooo: andamento
+[4:06:57] vbastosbsk: tas no carro errado ahahaha
+[4:06:58] zepintooo: 1k para os hl
+[4:06:58] sapalhos: tas na errdaa
+[4:06:59] alentejano123: o camarada nao esta contigo
+[4:06:59] diogosantos04: tas sozinho acho
+[4:06:59] Joao99c: tas sozinho
+[4:07:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:07:02] infonoobs: sangue do norte caralho....
+[4:07:02] felisberrtooo: eia
+[4:07:03] nsghost: tens o carro errado
+[4:07:03] zepintooo: @didiggtt  1 2 3
+[4:07:04] Vongod77: tas sozinho
+[4:07:05] rubenpinto8080: tas sozinho
+[4:07:08] racc31792: @iaraf03 fizeste excursões?
+[4:07:10] iaraf03: @racc31792 epah eu apanhei 1 dia de chuva só, mas lá é aquela cena, ta a chover mas ta um calor do crlh
+[4:07:11] vbastosbsk: e tas sozinho HAHAHAHAHA
+[4:07:11] Morceguito15: ahahahahahahahahahahahah
+[4:07:12] zepintooo: ahaaaaha
+[4:07:13] sapalhos: errada ze
+[4:07:13] diogosantos04: ele entrou na policia
+[4:07:15] TNMiranda11: @Cesarvsc a falar para o camarado com a x6 do gajo
+[4:07:17] power_guido_43: a quanto tempo no Portugalia @cesarvsc
+[4:07:17] Vongod77: LUL LUL LUL LUL
+[4:07:18] felisberrtooo: BORAAAAAAAAAA
+[4:07:18] vbastosbsk: AHAHAHAHAHAH
+[4:07:19] leob13: isso nao e da policia LUL
+[4:07:20] stanacasa1906: a policia não pode matar assim so porque o mesmo abre fuga.. ele representou que prigo?
+[4:07:22] infonoobs: LUL LUL LUL NotLikeThis NotLikeThis NotLikeThis NotLikeThis
+[4:07:22] didiggtt: @zepintooo santinissss
+[4:07:29] iaraf03: @racc31792 desta vez n, mas diz me pfv que foste ao parque Xcaret
+[4:07:32] spartan2895: passas 2 dias  na praia da apulia e não sabes o quão bem que te faIa
+[4:07:35] gui_l0ppez: AHAHAHAHHAHAHA
+[4:07:35] tozegamer2020: x6 errada
+[4:07:36] saragoca9: Ahahahaggagaga
+[4:07:36] elv1ruz: cesarv30o cesarv30o cesarv30o
+[4:07:37] Morceguito15: ahahahahahahahahahah eu n estou a ver isso ahahahahah
+[4:07:38] marcopereirams: Estas sosinho estas bonito estas ahahah
+[4:07:42] tozegamer2020: KKKKKKKKKKKKKKKKKKKK
+[4:07:53] zepintooo: ardeu
+[4:07:58] arnardofritz: Mds
+[4:08:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[4:08:02] arnardofritz: Que confusos
+[4:08:03] felisberrtooo: hahahahaa
+[4:08:03] leob13: LU
+[4:08:05] leob13: LUL
+[4:08:06] P4T1TA: AHAHAHAH
+[4:08:07] felisberrtooo: TU CONSEGUES
+[4:08:09] TNMiranda11: essa é a x6 do gajo
+[4:08:11] arnardofritz: É que tava perseguindo
+[4:08:11] leob13: era dele
+[4:08:11] CristianinhoTV: É do gajo q mataste
+[4:08:12] infonoobs: sei la
+[4:08:13] alentejano123: era do fugitivo
+[4:08:13] freackman23: era deles ahaha
+[4:08:13] infonoobs: kkkk
+[4:08:14] madrux_: era do gajo
+[4:08:14] felisberrtooo: XDDDDDDDDDD
+[4:08:14] sapalhos: mt javarice
+[4:08:15] TNMiranda11: era do gajo
+[4:08:16] brunom1randa1: Do gajo que mataste
+[4:08:16] ivan49_: era do gajo que tava a dar fuga
+[4:08:17] raulmarcelo03: estás sozinho
+[4:08:19] guigoncalves1904: Essa x6 era a do gajo
+[4:08:20] danyzot: e a do gajo que estava a fugir
+[4:08:21] diogosantos04: era do gajo q entrou na moto
+[4:08:21] tozegamer2020: foi o que tu mataste da mota
+[4:08:21] teixeiraa132: essa era a tal que estás em 10 80
+[4:08:22] rullerobadi: E do gaijo que mataste
+[4:08:22] madrux_: ele entrou noutra x6
+[4:08:23] TonyStarkXK9: era a do fugitivo
+[4:08:23] Joao99c: era dele do gajo que tá a fugir
+[4:08:23] sapalhos: era do gajo q matas te
+[4:08:24] Ace_GMR: E a que estavas a perseguir
+[4:08:25] angelocruz91: ladroes
+[4:08:27] itssousza: x6 essa e` do gajo que tava afugir aha
+[4:08:31] diogocunha26: era do gajo que entrou na moto
+[4:08:34] CristianinhoTV: Kappa Kappa Kappa
+[4:08:37] DiDi190676: Que ganda jabardice broda vai la vai
+[4:08:39] raulmarcelo03: e a que estava a fugir
+[4:08:40] ystyIe: essa saiga ja matou tantos gajos sem crer xD
+[4:08:56] Ozzy_zy: tiro nas unhas dos pes ..deu morte outra vez?
+[4:08:59] racc31792: @iaraf03 não fui ao xcaret, com 4 dias de chuva, tive de fazer escolhas. e o bilhete a 190€ não foi chamativo.
+[4:08:59] TNMiranda11: @Cesarvsc tu matas o gajo a ainda lhe das um mico a x6
+[4:09:06] arnardofritz: Disparou no pneu
+[4:09:10] arnardofritz: Passou a frente
+[4:09:14] CristianinhoTV: Ele disparou pneu , é calibre 12 espalha , acontece
+[4:09:18] ystyIe: tens q começar a usar a mp5 e largar a saiga
+[4:09:20] Ozzy_zy: o que eu perdi :D
+[4:09:23] iaraf03: @racc31792 pois esse tbm foi um dos motivos que acabei por n ir lá...
+[4:09:26] DiDi190676: Tu es policia mano acho que fizeste mais tu de bandido que ele bro kkk
+[4:09:32] crazy_tbw: Consequencias de rp xd
+[4:09:33] Joao99c: é o problema da saiga espalha bué as balas
+[4:09:44] iaraf03: @racc31792 mas foste a Holbox? Isla Mujeres?
+[4:09:45] TNMiranda11: com jeitinho ja abriu report @Cesarvsc
+[4:09:50] brunom1randa1: @DiDi190676 Alerta Chorao
+[4:10:00] carlosmfm3: o Heli esta em cima dele?
+[4:10:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[4:10:06] infonoobs: a intenção era e foi disparar no pneu. com o movimento acabou por acertar, bala perdida XD
+[4:10:09] DiDi190676: Para perceber bro dizme uma coisa irmao tu matas um homem e segues como policia ?
+[4:10:12] Ozzy_zy: a arma dispara em leque? MaxLOL
+[4:10:19] rammstein_life: cesarv3Chorao cesarv3Chorao cesarv3Chorao cesarv3Chorao
+[4:10:48] infonoobs: era muita pressão a arma tremeu XD
+[4:10:52] alentejano123: Pode acontecer é uma shotgun as balas espalham
+[4:11:04] Joao99c: @didi190676 cesarv3Chora cesarv3Chora cesarv3Chora cesarv3Chora
+[4:11:05] arnardofritz: @ozzy_zy é uma 12 dispara vários disparos
+[4:11:07] iaraf03: é pra ir de vela?
+[4:11:09] CristianinhoTV: @didi190676 mete mais tabaco nisso
+[4:11:11] BinGaLOwss: @DiDi190676  se nao jogas nao sabes as regras
+[4:11:13] rammstein_life: cesarv3Chorao cesarv3Chorao cesarv3Chorao
+[4:11:13] gui_raffa000: malta foi sem querer ss foda
+[4:11:16] Yr0kumata: Bandido morto é bandido morto fdc
+[4:11:22] guigoncalves1904: @didi190676 César tem fair play 1 vez há segunda já foste
+[4:11:27] crazy_tbw: Consequencias de rp!
+[4:11:29] felisberrtooo: @DiDi190676 cesarv3Bann  cesarv3Chora
+[4:11:31] WizeBot: 【 574 viewers (-10) ⏰ 4h 11m 36s 】
+[4:11:43] made_in_pt: @iaraf03 de vela pk? Ele n disse nada de mal
+[4:11:46] TNMiranda11: deu para reparar que o mataste sem querer
+[4:12:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:12:03] chapaxfn: são os mesmos gajos da Mota
+[4:12:04] arnardofritz: @didi190676 ele. Já falou que foi no. Pé de imediato o INEM pode reviver
+[4:12:04] pedro_bif: Grande cesar
+[4:12:06] brunom1randa1: @DiDi190676 Como disseste, nao jogas, calaste e aprecia, nao gostas, vai ver o Kazzio
+[4:12:07] Ozzy_zy: @arnardofritz dispersa os chumbos, entendi SeemsGood
+[4:12:08] BinGaLOwss: falta de fair play .. ele teve 1 vez , nao vai ter mais
+[4:12:09] tozegamer2020: crach nao percebi pk estas sempre a crachar?
+[4:12:09] racc31792: @iaraf03 isla mujeres, isla contoy, holbox, isla pasion(vi flamingos 🦩🦩🦩, valladolid. Chichén Itzá, dois xenotes e um ojo de água 445€ por pessoa
+[4:12:21] CristianinhoTV: E mais a morte foi acidental
+[4:12:23] pedro_bif: Como é que está a política das marcas em relação aos carros?
+[4:12:31] TonyStarkXK9: Didi comentador de televisão 😂
+[4:12:32] stanacasa1906: @BinGaLOwss esse papo não faz sentido. sendo assim futebol nao tinha adeptos .. estamos aqui para comentar broda
+[4:12:38] iaraf03: @racc31792 nada mau, fizeram te um pack muito bom digo te já
+[4:12:39] rullerobadi: @cesarvsc ha pessoal que nem joga e veem para aqui mandar postas de pescada
+[4:12:53] iaraf03: @made_in_pt cesarv3Tou
+[4:13:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[4:13:08] felisberrtooo: ?
+[4:13:09] Joao99c: gente a saiga espalha as balas muito por isso acontece o que se passou aqui
+[4:13:11] S1maoFN_: Boas César
+[4:13:12] stanacasa1906: é suposto ver e nao dizer nada? ou tem que se ter 1 opiniao so?
+[4:13:12] arnardofritz: Disparou para o pneu, pegou no pe, ele caiu e o INEM PODEM REVIVER
+[4:13:19] made_in_pt: @iaraf03 perguntaste se era para mandar de vela. Eu só respondi
+[4:13:26] TNMiranda11: @Cesarvsc o melhor foi tu matares o gajo pegas na x6 e vais a falar sozinho como se tivesses na tua x6 e com o teu camarada LUL LUL
+[4:13:28] racc31792: @iaraf03 foi um agência portuguesa, Rimain Tour(são fantásticos) tudo nada a apontar
+[4:13:47] tozegamer2020: o teu rp está certo e nao fear a uma arma
+[4:13:54] CristianinhoTV: @didi190676 cm assim n fica nmg ficou lá uma unidade a transportalo pro hospital
+[4:13:59] iaraf03: @racc31792 tbm fiz excursões com eles mas em Punta Cana
+[4:14:08] alentejano123: Cesar não precisas de dar satisfações são shotguns!!
+[4:14:13] figueyredo_: mas a saiga matar com 1 tiro é absurdo
+[4:14:17] brunom1randa1: @DiDi190676 Agora a fazer se de coitado ahahaha
+[4:14:21] S1maoFN_: Porquê Cesarvsc @Cesarvsc ?
+[4:14:21] MarginalPortugal: SHOTGUN ESPALHA
+[4:14:21] TonyStarkXK9: la por ter abatido, nao significa que a perseguição tenha que parar perante o outro.. há códigos para informar o sucedido e mais elementos para tratar do abatido
+[4:14:22] CristianinhoTV: @didi190676 n é questão de opinião e sim de ragras
+[4:14:23] marcopereirams: @cesarvsc com todo o respeito que tenho por ti acho quando foi com o cristas ja estavas a frever kkkk
+[4:14:28] iVoLaX_: d5 parece
+[4:14:33] figueyredo_: tu só lhe acertas 1, foi como aconteceu com aquele rapaz dos amarelos
+[4:14:36] iVoLaX_: secalhar na visao dele é outra
+[4:14:40] Joao99c: César é da saiga espalhar as balas
+[4:14:40] iVoLaX_: é normal
+[4:14:48] ic3ktm: olha a roupa
+[4:14:58] brunom1randa1: @DiDi190676 Dá para ver ahahah chorao
+[4:15:05] Soares16: tas sem roupa
+[4:15:07] Soares16: hahah
+[4:15:08] alentejano123: Farda-te
+[4:15:13] tozegamer2020: olha a roupa @Cesarvsc
+[4:15:15] ic3ktm: não estás com roupa da polica e normal ?
+[4:15:17] renasg__: roupa
+[4:15:22] marcopereirams: Farda
+[4:15:23] stanacasa1906: kkkkkk chorao de dar opiniao? voces tao a chorar mais que ele kkk
+[4:15:30] racc31792: @didi190676 @brunom1randa1 chill
+[4:15:38] iaraf03: eu avisei
+[4:15:54] TNMiranda11: chill rapazes
+[4:16:02] brunom1randa1: @racc31792 Mais que chill bro ahaha
+[4:16:02] BinGaLOwss: roupa cesar
+[4:16:04] TNMiranda11: criar uma confusão so por causa daquilo
+[4:16:08] tozegamer2020: @Cesarvsc brincar é no parque
+[4:16:21] iaraf03: Já chega malta
+[4:16:29] iaraf03: O rapaz já n está no chat
+[4:16:31] bdf_neves_07: É que eu tenho 16 e não faço isso
+[4:16:32] rodi_olz: tudo por um tiro no rp...
+[4:16:41] Morceguito15: quando disseres furar pneus na verdade vais é furar pés ohh @Cesarvsc ahahahahah
+[4:16:45] EL_FEN0: No pé ? Pregaste-me uma chapada na testa oh César AHAHAHAHA
+[4:16:50] alentejano123: O nve ta assim tao escuro á noite ou estás com Darker Nights??
+[4:16:51] made_in_pt: O mal geral do povo é que não consegue lidar com uma opinião contrária. Respirem. Respondam com educação e tá tudo bem.
+[4:17:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:17:09] labf14: foi bem dada a txapada
+[4:17:11] Joao99c: cesarv3Aver cesarv3Aver cesarv3Aver cesarv3Aver
+[4:17:16] EL_FEN0: Caguei me a rir ahahahahaa
+[4:17:19] felisberrtooo: tixaxxxTousaver
+[4:17:23] davidrocha_234: ResidentSleeper ResidentSleeper ResidentSleeper ResidentSleeper
+[4:17:36] elv1ruz: cesarv3Kappa
+[4:17:40] iVoLaX_: @el_fen0  é a tua visao bro
+[4:17:46] iVoLaX_: na dele é na roda ya
+[4:17:59] racc31792: @el_fen0 basta puxares vod atrás poupas o report
+[4:18:02] EL_FEN0: Oh malta, fui eu que morri, eu é que perdi as coisas e vocês stão com coisas porquê? acalmem-se sff, estão mais importados que eu
+[4:18:03] iVoLaX_: estou a dizer na tua cesar
+[4:18:10] iVoLaX_: estou a falar para ele
+[4:18:31] EL_FEN0: @racc31792 Amigo, onde é que viste eu a dizer que ia abrir report ? Muita calma....
+[4:18:46] racc31792: @el_fen0 sim, mas podes ir lá ver bro. 37 sei que não vais abrir report, o César é que falou nisso
+[4:18:50] iVoLaX_: é roleplay malta 🤟🤟
+[4:18:55] tozegamer2020: ele vinha em contramao o ctt
+[4:18:55] TNMiranda11: @EL_FEN0 mano o melhor é o cesar ter te matado e ainda roubou-te a x6 e estava feito maluca a falar sozinho
+[4:18:56] racc31792: eu*
+[4:19:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[4:19:14] made_in_pt: @racc31792 acho que continua o mesmo problema. Basta ler com calma q tudo fica bem
+[4:19:14] Joao99c: @el_fen0 esta gente anda muito nervosa 😆😆
+[4:19:15] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[4:19:15] EL_FEN0: Completamente tranquilo
+[4:19:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[4:19:19] rammstein_life: cesarv3ZETO cesarv3ZETO cesarv3ZETO cesarv3ZETO
+[4:19:33] racc31792: @made_in_pt exato!
+[4:19:35] CristianinhoTV: Zeto e os acidentes
+[4:19:40] felisberrtooo: Acho é este
+[4:19:43] Joao99c: cesarv3PIMBA cesarv3PIMBA cesarv3PIMBA cesarv3PIMBA
+[4:19:47] EL_FEN0: @Joao99c Nem me digas nada... As coisas não são com eles e ficam muito chateados xD
+[4:20:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[4:20:18] brunom1randa1: AGHAHAHAHHA
+[4:20:20] nuno_miguel_23: Hahahaha
+[4:20:22] felisberrtooo: LUL LUL LUL LUL LUL LUL LUL LUL
+[4:20:32] racc31792: cesarv3PIMBA
+[4:20:34] Joao99c: @el_fen0 É isso
+[4:20:56] Ace_GMR: Não estava um gajo amarelo dentro do carro
+[4:21:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[4:21:05] iaraf03: @Cesarvsc já deste tag ao @racc31792 no discord?
+[4:21:15] Ozzy_zy: flexiban é bom, diminui as dores e dá soninho, depois é relax durante dia e meio :D
+[4:21:16] HBarros1992: o gajo de amarelo
+[4:21:24] HBarros1992: ele tava na situaçao penso eu
+[4:21:36] BhorioZ: pra boas noites cesarv3IMACULADA cesarv3IMACULADA
+[4:21:38] iaraf03: @Ozzy_zy esse relaxante muscular é fixe para dormir mesmo ahahahah
+[4:22:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:22:06] infonoobs: o cesar essa chuva esta muito fraca ... depois passa cá para por mais forte
+[4:22:54] Ozzy_zy: @iaraf03 é não é :D infelizmente tenho que tomar a vida toda mas sem problema LUL
+[4:23:04] iaraf03: @Ozzy_zy ui ent?
+[4:23:32] alentejano123: Teve uma quebre de tensão
+[4:23:41] rodrigo_caseiro: acho que nao da para por a chuva mais baixa
+[4:23:52] iVoLaX_: o gajo é tao feio que nem a cirurgia o safa
+[4:24:05] Ozzy_zy: @iaraf03 nasci com defeito de fabrico e agora tenho que aguentar :D
+[4:24:36] Bleftin: @cesarvsc Daniel Martins é o deputado
+[4:24:41] iaraf03: @Ozzy_zy defeito de fabrico? ui...
+[4:24:47] santo_tirso: Daniel Martins?
+[4:24:51] santo_tirso: deputado?
+[4:24:51] CristianinhoTV: Daniel Martins n é o o deputado?
+[4:24:53] santo_tirso: OI?
+[4:25:08] santo_tirso: @Bleftin AHAHAHA
+[4:25:12] CristianinhoTV: Atão cm q ele tava lá e o carro dele a frente dele e ele não reconhece ??
+[4:25:29] camila_oliveira99: esse Daniel Martins não é o deputado???
+[4:25:54] Bleftin: @santiiirs afinaaaaaal
+[4:26:20] santo_tirso: @Bleftin nós avisamossssss
+[4:26:27] Bleftin: @santiiirs estamos demasiado à frente…. a pj não está preparada para nos
+[4:26:46] santo_tirso: nem a pj e nem a GNR
+[4:27:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:27:02] Joao99c: @camila_oliveira99 É
+[4:27:23] protsh: Boas noites maltinha cheguei! Boas noites cesar tambem espero que esteja tudo em ordem por ai
+[4:27:31] racc31792: @cesarvsc obrigado pelo mod!!! É um orgulho!!
+[4:27:50] santo_tirso: @protsh Boa Noite! Tudo bem?
+[4:27:54] iaraf03: ele já tinha agradecido @Cesarvsc
+[4:28:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[4:28:04] iaraf03: @protsh cesarv3IMACULADA
+[4:28:05] Ozzy_zy: @iaraf03 a minha coluna faz um S e isso provoca dores na zona lombar, não poso tomar tudo e mais alguma coisa para as dores pois eu só tenho 1 rim
+[4:28:15] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[4:28:34] protsh: @santiiirs cansado nada vdd e por ai?
+[4:28:35] peixinho_____: e qual é o problema de queimar @Cesarvsc ?
+[4:28:35] iaraf03: @Ozzy_zy ui, isso é foda... as melhoras
+[4:28:40] AveirenseTV: @Ozzy_zy junta-te ao grupo dei cabo dos ultimos 2 elos da coluna tenho dores ciaticas fortes BibleThump
+[4:28:46] brunom1randa1: @Ozzy_zy O outro foi para comprar o Iphone Kappa
+[4:28:58] santo_tirso: @protsh Está tudo fino.
+[4:29:06] taydodrill: 1842
+[4:29:08] taydodrill: fabians
+[4:29:10] peixinho_____: já passaste era o fabians
+[4:29:15] protsh: @santiiirs e isso e isso que importa
+[4:29:19] tuezin_____: 196....
+[4:30:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[4:30:05] Ozzy_zy: @AveirenseTV  eu tenho escoliose congenita ou lá como se chama, não precisei de fod** a coluna já veio lixada :D
+[4:30:22] AveirenseTV: @Ozzy_zy eish boa sorte irmao
+[4:30:57] al3nt3jan0: Ele bate com a cabeca na arvore
+[4:31:10] santo_tirso: ele bateu na arvore
+[4:31:15] peixinho_____: ele não pode passar ai a essa velociadade
+[4:31:18] al3nt3jan0: Ele bate com a cabeca no tronco
+[4:32:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:32:06] peixinho_____: @Cesarvsc uma cena é levar vdm outra é morrer de queda
+[4:32:17] WizeBot: 【 489 viewers (-85) ⏰ 4h 32m 23s 】
+[4:32:19] Ozzy_zy: @iaraf03 obg, quando o tempo está frio, pareço um idoso :D quando o tempo aquece , está melhor :D
+[4:33:50] AveirenseTV: @iaraf03 cesarv3IMACULADA FallWinning
+[4:33:53] KunangaJR_tv: sao 200 mil
+[4:34:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[4:34:04] iaraf03: @AveirenseTV cesarv3IMACULADA
+[4:34:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[4:34:58] davidscp7: davidscp7 watched 3 consecutive streams this month and sparked a watch streak! 
+[4:35:51] crazy_tbw: sabes que a malta é Jordão prime quando nem roupa sabe fazrr
+[4:36:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[4:37:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:37:29] felisberrtooo: @EL_FEN0  acorda
+[4:38:06] KunangaJR_tv: é de castigo
+[4:38:14] leob13: pega na saga novamente xD
+[4:38:20] santo_tirso: @EL_FEN0 estas ai?
+[4:38:51] itzfalcao: ahahah
+[4:39:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[4:39:10] infonoobs: LUL LUL LUL
+[4:39:16] sebastiao_zx: é amarelos contra quem ?
+[4:39:34] AveirenseTV: neko sem bu lool
+[4:40:05] Ozzy_zy: qual cabeça? Kappa
+[4:40:54] Ozzy_zy: como a Fenix :D
+[4:42:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:42:06] Ozzy_zy: é a arca de Noé
+[4:43:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[4:43:03] sebastiao_zx: podes dar spec fight da meta?
+[4:43:36] capitao_cuequinha: 2268 e 2273 eram os que andavas com o urso oh @Cesarvsc
+[4:43:38] AveirenseTV: tim tim tim um pokemon foi encontrado Kappa
+[4:43:40] sebastiao_zx: tranquilo
+[4:43:55] sebastiao_zx: aahahahhah
+[4:44:02] limao04: Boas Cesar
+[4:44:07] sebastiao_zx: ahahahah
+[4:44:11] felisberrtooo: KEKW
+[4:44:18] Morceguito15: pelo menos sabe fazer o pano
+[4:45:15] felisberrtooo: KEKW 󠀀
+[4:45:16] telmo_almeida: KEKW
+[4:45:18] sebastiao_zx: ahahahaa
+[4:45:22] felisberrtooo: LUL
+[4:45:25] racc31792: foste apanhado
+[4:45:35] AveirenseTV: cesarv3OhDiabo
+[4:45:49] ivan49_: Ó Zé Tó não te cansas de ver tantos tones e tantos bonecos todos os dias kkkkkkk, tu dever ter medo de entrar na Toys "R" Us, vês bonecos pensas logo no RP kkkk
+[4:46:05] Morceguito15: n consegues fazer desaparecer o id né cesar
+[4:46:09] racc31792: não digas isso! :Z
+[4:46:14] capitao_cuequinha: hahah, siga!
+[4:46:26] carapitopotter: rimacaBORABORA1 rimacaBORABORA1
+[4:47:01] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:47:34] ptevos: parabens para mim <3
+[4:47:38] arnardofritz: @cesarvsc uma porção de batata fritas??
+[4:47:50] felisberrtooo: @ptevos Parabens <3
+[4:47:50] Ozzy_zy: amanhã vai ter mais, começa o fim de semana, não há escolinha e tal :D
+[4:47:51] ptevos: 31...rumo aos 40
+[4:48:00] Streamlabs: Queres beber imaculadas, mas queres estar fit para as febras? ZETO na Prozis! Tens aquele desconto de 10% básico e umas ofertas... SACODE! www.prozis.com/6vWD
+[4:48:01] telmo_almeida: @ptevos, parabéns
+[4:48:02] simao_costa23: Boas
+[4:48:04] camila_oliveira99: Parabens
+[4:48:12] arnardofritz: Já consegui o pc
+[4:48:20] arnardofritz: Parabéns @ptevos
+[4:48:22] Ozzy_zy: @ptevos Pbs, 31? muito novinho :D
+[4:48:26] ptevos: obrigado a todos! <3
+[4:48:27] antifacti0n: zero
+[4:48:30] ptevos: também vou dormir mais cedo.
+[4:48:30] guigoncalves1904: 11
+[4:48:34] saragoca9: @ptevos parabéns
+[4:48:36] guigoncalves1904: Quase 12
+[4:48:43] telmo_almeida: vou dormir mais cedo tambem entao :D
+[4:48:55] ptevos: obrigado a todos!
+[4:48:57] protsh: Parabens @ptevos
+[4:49:01] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[4:49:05] chapaxfn: parabéns!
+[4:49:06] carapitopotter: @ptevos parabéns
+[4:49:07] FelixFelish: Mekie boss
+[4:49:08] AveirenseTV: e solverde? :(
+[4:49:11] ptevos: tenho uma consulta agora a 1h15 Kappa
+[4:49:16] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[4:49:16] racc31792: eu fico, vá, só porque me deste mod!
+[4:49:17] guigoncalves1904: Parabéns
+[4:49:18] iaraf03: parabéns @ptevos :D
+[4:49:24] kennys075: grande máquina
+[4:49:26] mello699: HeyGuys
+[4:49:30] ptevos: oferece o sub @Cesarvsc
+[4:49:35] Ace_GMR: Parabéns @ptevos. 93 é o melhor ano
+[4:49:35] AveirenseTV: oh cesar ou sou de outubro de 2019 LUL
+[4:49:43] TitanM3nd3s: Parabéns @ptevos
+[4:49:44] felisberrtooo: Quando cortas barba Kappa  @Cesarvsc
+[4:49:55] ptevos: o que? mod?
+[4:49:55] klausmikaelson__: haha
+[4:49:56] Ozzy_zy: LUL LUL
+[4:50:01] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[4:50:03] labf14: LUL LUL LUL
+[4:50:11] felisberrtooo: LUL LUL
+[4:50:12] dead_p1xel_: @Ace_GMR sem duvida, a melhor colheita de sempre
+[4:50:13] ptevos: há piores que eu
+[4:50:20] dead_p1xel_: casta unica
+[4:50:24] klausmikaelson__: SirPrise
+[4:50:30] ptevos: todos os meus timeouts e bans foi por trolladas
+[4:50:37] AveirenseTV: a min nao das mod nem vip nunca fui timeout ou b4n e sigo desde 2019  Kappa
+[4:50:40] klausmikaelson__: assim de fraça?😂
+[4:50:47] ptevos: não sou tóxico irmão, digo é algumas verdades que as pessoas não gostam de ouvir.
+[4:50:47] klausmikaelson__: graça*
+[4:50:48] TNMiranda11: @ptevos es um javardo
+[4:50:59] ptevos: sabes que é
+[4:51:00] Streamlabs: Só na Hellcase, recebe um bonus gratuito de 0.70$ +10% de Bonus no teu depósito!---» https://hellca.se/cesarvsc
+[4:51:06] AveirenseTV: quem nao chora nao mama  Kappa
+[4:51:16] ptevos: não vamos falar disso hoje, vamos falar de ouro feminino que é melhor!
+[4:51:37] ptevos: não está ai o windows para oferecer sub
+[4:51:43] ptevos: não sabes o que é ouro feminino?
+[4:51:54] racc31792: racc31792 gifted a Tier 1 sub to ptevos! They have given 66 Gift Subs in the channel! 
+[4:51:54] ptevos: consegues claro, usas o restream ;)
+[4:51:54] AveirenseTV: posso chorar por um vip? Kappa  desde 2019 sem b4n ou timeout Kappa
+[4:51:55] WizeBot: ⭐️ NEW SUB ⭐️ ptevos (+4) ⭐️ (🎁 Offered by racc31792)
+[4:52:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:52:11] ptevos: obrigado @racc31792
+[4:52:15] ptevos: <3
+[4:52:18] racc31792: 😂😂😂
+[4:52:25] ptevos: agora dás-me mod a mim e dropo 10 subs
+[4:52:29] AveirenseTV: afinal nao mamo nem a chorar Kappa
+[4:52:35] ptevos: Kappa
+[4:52:39] ptevos: Vip
+[4:52:41] labf14: NotLikeThis NotLikeThis
+[4:52:42] ptevos: Vip.
+[4:52:44] Ozzy_zy: até podes fazer stream em mais, yout ,teiko tok :D
+[4:52:44] ptevos: Vip
+[4:52:46] WizeBot: 【 488 viewers (-1) ⏰ 4h 52m 51s 】
+[4:52:52] dead_p1xel_: dead_p1xel_ watched 3 consecutive streams this month and sparked a watch streak! 
+[4:52:58] ptevos: sou como sou, não tenho 2 caras.
+[4:52:58] AveirenseTV: LUL
+[4:53:05] racc31792: para mod tens de ter cadastro limpo
+[4:53:09] racc31792: @ptevos
+[4:53:14] ptevos: ok, combinado!
+[4:53:29] ptevos: não metas achas para a fogueira @racc31792 Kappa
+[4:53:30] racc31792: tenho nada
+[4:53:34] protsh: protsh gifted a Tier 2 sub to b0rges10_! 
+[4:53:35] protsh: protsh is gifting 1 Tier 2 Subs to Cesarvsc's community! They've gifted a total of 9 in the channel! 
+[4:53:35] Streamlabs: protsh just gifted 1 Tier 2 subscriptions!
+[4:53:36] WizeBot: ⭐️ NEW SUB ⭐️ b0rges10_ (+5) ⭐️ (🎁 Offered by protsh)
+[4:53:36] ptevos: obrigado pelo o sub irmao
+[4:53:41] AveirenseTV: LUL LUL
+[4:53:57] telmo_almeida: :tf:
+[4:54:02] iaraf03: o @windowsxp1982 n perdoa Kappa
+[4:54:03] racc31792: não senti, fui para o México no dia a seguir, não me afetou 😂😂
+[4:54:03] Figueiras_PT: windows xp não brinca em serviço, então o 11 nem se fala ahaahaha
+[4:54:04] Ace_GMR: Ace_GMR is gifting 10 Tier 1 Subs to Cesarvsc's community! They've gifted a total of 50 in the channel! 
+[4:54:04] Streamlabs: ace_gmr just gifted 10 Tier 1 subscriptions!
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to didiggtt! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to frightnight233! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to rp_lord! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to tiagomax18! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to bernardobpaiva! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to johnny0418! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to mrdudu12345! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to saragoca9! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to TTVCampos13! 
+[4:54:04] Ace_GMR: Ace_GMR gifted a Tier 1 sub to tomas126_cfr! 
+[4:54:05] WizeBot: ⭐️ Ace_GMR ⭐️ just offered 10 subscriptions to the community!
+[4:54:05] cxmposrr_: és do lado esquerdo ou direito?
+[4:54:10] AveirenseTV: vou chorando agora eu Kappa um dia pode ser que caia haha
+[4:54:11] scoelhos: o @ptevos com vip vai ser mais responsável
+[4:54:29] KunangaJR_tv: Eu nunca meti lenha na fogueira, nunca fui b@n, e nem um -vip tenho @Cesarvsc
+[4:54:29] ptevos: o meu vip?
+[4:54:35] ptevos: ah já está Kappa
+[4:54:43] KunangaJR_tv: LUL LUL LUL LUL
+[4:54:46] AveirenseTV: @ptevos chora com vip hahaha
+[4:54:52] KunangaJR_tv: sou outro o que?
+[4:54:55] KunangaJR_tv: kkkkkkkkkkkkk
+[4:55:02] labf14: eu uma vez levei timeout do rimaca por meta ResidentSleeper
+[4:55:07] ptevos: Obrigado @Cesarvsc <3 Não me farto de dizer que tenho saudades das lives de slots e imaculadas.... espero um dia recordar esses velhos tempos ;)
+[4:55:07] AveirenseTV: eu que estou a 3 anos a chorar e nao tenho vip Kappa
+[4:55:18] iaraf03: @KunangaJR_tv 13 timeouts Kappa
+[4:55:52] ptevos: poderes podes, não deves!
+[4:55:54] Ace_GMR: 31
+[4:55:55] Ozzy_zy: bebes enquanto fazes stream?
+[4:55:58] tomas_soeiro: Obrigado pela Patrulha hoje rei!!
+[4:56:07] ptevos: @Ace_GMR 1993
+[4:56:13] racc31792: 31
+[4:56:15] Ace_GMR: Melhor colheita
+[4:56:15] kikinha4: os copos partidos das imaculadas Kappa
+[4:56:15] AveirenseTV: ainda es um menino ace Kappa
+[4:56:23] ptevos: só gente com tomates com gadelha aqui neste chat!
+[4:56:24] protsh: 32 aqui
+[4:56:28] racc31792: 1992
+[4:56:30] Ozzy_zy: daqui a 23 dias eu faço fourty tres :D
+[4:56:35] kiiikxxx: 28
+[4:56:36] ic3ktm: 20
+[4:56:36] Liocret1203: 62
+[4:56:38] Figueiras_PT: 22
+[4:56:40] iaraf03: olha lá oh @Cesarvsc pra quando o subathon ?
+[4:56:42] Morceguito15: 19
+[4:56:45] scoelhos: eu sou o cota daqui com 42
+[4:56:45] protsh: feitos este ano dia 6 de janeiro xd
+[4:56:45] miguel_ribeiro19: tenho 28
+[4:56:45] dario_lopes: 21 aqui
+[4:56:48] TNMiranda11: 20
+[4:56:49] AveirenseTV: 31 mas deixei de contar nos 25 LUL LUL
+[4:56:49] hermano29: 29
+[4:56:51] iaraf03: 20
+[4:56:53] KunangaJR_tv: 25
+[4:56:55] s4firasanchez: s4firasanchez is gifting 1 Tier 1 Subs to Cesarvsc's community! They've gifted a total of 1 in the channel! 
+[4:56:55] s4firasanchez: s4firasanchez gifted a Tier 1 sub to diazjoao! 
+[4:56:55] Streamlabs: s4firasanchez just gifted 1 Tier 1 subscriptions!
+[4:56:57] WizeBot: ⭐️ NEW SUB ⭐️ diazjoao (+16) ⭐️ (🎁 Offered by s4firasanchez)
+[4:56:59] ruiii_2507: 17
+[4:57:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[4:57:02] Liocret1203: 26 foi ao contrario
+[4:57:03] KunangaJR_tv: daqui a 8 dias faço os 26
+[4:57:04] tomas_soeiro: Obrigado pela Patrulha hoje rei!! Quando voltar ai com o meu estrela levo te um cachecol nosso!!!! @Cesarvsc
+[4:57:05] labf14: 21 Kreygasm
+[4:57:13] Ozzy_zy: é só gente nova :D
+[4:57:20] AveirenseTV: ja somos 4 com 31 eu pelo menos deixei de contar nos 25 Kappa
+[4:57:22] racc31792: @protsh tens 62 e criaste a Twitch com 25 cesarv3Humilde
+[4:57:23] ptevos: Rita? Antes da Rita já estava cá eu. Há que respeitar a antiguidade Kappa
+[4:57:30] mello699: 22
+[4:57:34] Ozzy_zy: tenho idade para ser pai de todos :D
+[4:57:42] river_pt_: <3
+[4:57:51] iaraf03: trazes a Ritinha para o subathon Kappa
+[4:57:56] xkpedrosousa: como vejo o tempo que sigo o cesar??
+[4:57:58] ruiii_2507: ruiii_2507 subscribed at Tier 1. 
+[4:57:59] Streamlabs: ruiii_2507 just subscribed with Tier 1!
+[4:57:59] WizeBot: ⭐️ NEW SUB ⭐️ ruiii_2507 (+17) ⭐️
+[4:58:00] Streamlabs: Segue o ZÉ TÓ nas diversas plataformas! https://linktr.ee/cesarvsc
+[4:58:09] river_pt_: eu sigo deste 7 de fevereiro de 2021
+[4:58:11] racc31792: e a safira já bazou
+[4:58:12] cxmposrr_: eu sigo desde quando @cesarvsc ?
+[4:58:19] Ozzy_zy: quase nos 43 mas pela escrita nem pareço com essa idade
+[4:58:19] TNMiranda11: @xkpedrosousa clica no teu nome
+[4:58:24] Figueiras_PT: cesarv3Febra cesarv3SACODE
+[4:58:26] racc31792: e bazou
+[4:58:30] tomas_soeiro: Obrigado pela Patrulha hoje rei!! Quando voltar ai com o meu estrela levo te um cachecol nosso!!!! @Cesarvsc
+[4:58:36] river_pt_: deu sub mas acho que acabou
+[4:58:43] protsh: Cheer100 Cheer100 Cheer100 Cheer100 Cheer100
+[4:58:44] Streamlabs: protsh has cheered 500 bits!
+[4:58:44] Figueiras_PT: o windows é XP se fosse windows 11 ainda se admitia kkk
+[4:58:49] scoelhos: @ozzy_zy mesma idade que eu
+[4:59:00] Streamlabs: Gift cards mais baratos do mercado aqui --> https://ene.ba/Cesarvsc-GiftCards
+[4:59:03] ptevos: é fdd estar doente no dia do nosso aniversário
+[4:59:04] racc31792: mas o Windows deu me timeout não conta😂😂😂
+[4:59:04] AveirenseTV: AveirenseTV is paying forward the Gift they got from DjSharkPT to s4firasanchez! 
+[4:59:04] AveirenseTV: AveirenseTV gifted a Tier 1 sub to s4firasanchez! This is their first Gift Sub in the channel! 
+[4:59:06] WizeBot: ⭐️ NEW SUB ⭐️ s4firasanchez (+18) ⭐️ (🎁 Offered by AveirenseTV)
+[4:59:10] Ozzy_zy: @scoelhos não me sinto mais sozinho :D
+[4:59:12] protsh: Bota que tem
+[4:59:21] AveirenseTV: está feito <3
+[4:59:28] ptevos: "!setgame Só conversa"
+[4:59:28] xkpedrosousa: 
+[4:59:31] gabriel04pt: videozinho react
+[4:59:31] racc31792: Mods mudem que eu não sei!
+[4:59:33] iaraf03: mudar pra qual?
+[4:59:36] ptevos: não sou mod, não consigo Kappa
+[4:59:38] KunangaJR_tv: kkkkkkkkkkkkkkkk
+[4:59:38] WizeBot: 🎮 Grand Theft Auto V [📛 15s]
+[4:59:39] Streamlabs: Cesarvsc is playing Grand Theft Auto V .
+[4:59:42] racc31792: Não tenho o curso
+[4:59:45] s4firasanchez: @AveirenseTV Obrigado <3
+[4:59:49] iaraf03: !setgame Just chatting
+[4:59:49] Streamlabs: iaraf03 changed the game to "Just Chatting".
+[4:59:50] WizeBot: 🎮 The category has been modified to Just Chatting.
+[4:59:54] AveirenseTV: apesar de ja ca nao estar :D
+[4:59:58] AveirenseTV: ahh afinal fala :d
+[5:00:00] Streamlabs: ENEBA - Melhor site e mais seguro para comprar os teus jogos favoritos. Aproveita já os vários descontos que na ENEBA tem para ti --> https://ene.ba/Cesarvsc
+[5:00:08] iaraf03: Era isto @Cesarvsc ?
+[5:00:09] AveirenseTV: @s4firasanchez mereceste :D
+[5:00:12] s4firasanchez: Estou só a ver
+[5:00:13] KunangaJR_tv: porque sempre te apoiei @Cesarvsc
+[5:00:17] Ace_GMR: @s4firasanchez que andas a fazer aqui rapariga. Andas perdida
+[5:00:18] cribeiro231: SeemsGood
+[5:00:21] bino_rp_: ora muito boa noite a todos os presentes
+[5:00:22] TNMiranda11: mete o Felisberto como mod
+[5:00:29] s4firasanchez: @Ace_GMR Aceeeeeeeeeee
+[5:00:39] s4firasanchez: estou perdida
+[5:00:42] AveirenseTV: ok nao posso dar mais nenhum BibleThump FallWinning
+[5:00:42] Ace_GMR: Fiz rp com ela durante muitos anos
+[5:00:49] Ozzy_zy: lol
+[5:00:50] KunangaJR_tv: mas mesmo metendo ou não lenha na live estou aqui todos os dias !!!
+[5:01:00] s4firasanchez: agora já não jogo
+[5:01:04] s4firasanchez: fiz pausa
+[5:01:19] racc31792: @tnmiranda11 não é por eu ter mod que agora qualquer um pode, calma
+[5:01:23] Ace_GMR: Carlos marreco meu primeiro sv e depois fomos para o altf4
+[5:01:37] gabriel04pt: maquina
+[5:01:41] KunangaJR_tv: pois, nao ha resposta !! @Cesarvsc
+[5:01:41] AveirenseTV: ontem nao tinha dado sub? BibleThump  aqui diz que termina hoje e que tenho de pagar para prolongar
+[5:01:45] TNMiranda11: @racc31792 LUL
+[5:02:00] Streamlabs: Poderás apoiar o teu streamer agora através da doação MBWAY ---» https://tipme.to/cesarvsc
+[5:02:04] bino_rp_: dedica te a pesca haha
+[5:02:13] Ozzy_zy: videos cebola?
+[5:02:19] kikinha4: @bino_gordao LUL
+[5:02:27] infonoobs: discord?
+[5:02:35] veramarques01: VoteYea VoteYea VoteYea
+[5:02:39] Morceguito15: vê vídeos tenta n rir ahahahah
+[5:02:48] kikinha4: desde 2020 aqui Kappa
+[5:02:50] veramarques01: digo o mesmo
+[5:02:52] scoelhos: vamos às notícias
+[5:02:54] veramarques01: HeyGuys
+[5:02:55] bino_rp_: assaltei idosos na rua e olha o que aconteceu (Fui preso??)  reage a um video assim
+[5:02:58] protsh: Tomas mais uns bits ai Cesar ;)
+[5:03:14] protsh: Cheer1000
+[5:03:14] Streamlabs: protsh has cheered 1000 bits!
+[5:03:28] gabriel04pt: 1000 facil
+[5:03:48] protsh: tamos juntos
+[5:03:54] AveirenseTV: 2020Glitchy
+[5:04:00] Streamlabs: Nova parceria SOLVERDE | Usa o código "CESARVSC" e obtém 100 free spins na slot  Better Wilds | Link registo aqui no https://linktr.ee/cesarvsc
+[5:04:15] Streamlabs: Queres transformar as tuas Skins em dinheiro real? Entra na EXEEDME.COM https://exeedme.com/sell-skins e faz CASHOUT imediato de SKINS para MBWAY! Usa o meu promocode "CESARVSC" e recebe +5% do valor do teu cashout 🔥
+[5:04:28] protsh: protsh gifted a Tier 1 sub to gabriel04pt! They have given 10 Gift Subs in the channel! 
+[5:04:29] WizeBot: ⭐️ NEW SUB ⭐️ gabriel04pt (+19) ⭐️ (🎁 Offered by protsh)
+[5:04:30] protsh: toma gabriel
+[5:04:40] labf14: olha a soraia
+[5:04:43] gabriel04pt: tamos juntos @protsh <3
+[5:04:45] Morceguito15: Morceguito15 watched 3 consecutive streams this month and sparked a watch streak! ,
+[5:04:47] Ozzy_zy: não sabias? é a tuguice ao mais alto nivel :D
+[5:04:50] scoelhos: abrange tudo o k mexe
+[5:04:57] Morceguito15: ns porque mas perco sempre a minha sequencia
+[5:05:04] scoelhos: o importante é criar polémica
